@@ -1,0 +1,248 @@
+pattern,tag,label
+hi,gr_hi,0
+halo,gr_ha,1
+selamat pagi,gr_pa,2
+selamat siang,gr_si,3
+selamat sore,gr_so,4
+selamat malam,gr_ma,5
+program studi apa di uin sunan gunung djati bandung,prodi,6
+apa jurus uin bandung,prodi,6
+jurus apa,prodi,6
+mohon informasi kena program studi sedia uin sunan gunung djati bandung,prodi,6
+saya daftar program studi uin sunan gunung djati bandung,prodi,6
+ikan rincian program studi tawar uin sunan gunung djati bandung,prodi,6
+ingin tahu program studi apa yang di uin sunan gunung djati bandung,prodi,6
+anda sebut program studi ada uin sunan gunung djati bandung,prodi,6
+anda milik informasi program studi uin sunan gunung djati bandung,prodi,6
+saya tahu program studi sedia uin sunan gunung djati bandung,prodi,6
+mohon bantu beri informasi kena program studi uin sunan gunung djati bandung,prodi,6
+tarik tahu program studi apa yang tawar uin sunan gunung djati bandung,prodi,6
+jelas program studi sedia uin sunan gunung djati bandung,prodi,6
+program studi apa yang di uin sunan gunung djati bandung,prodi,6
+jurus apa di uin sunan gunung djati bandung,prodi,6
+uin sunan gunung djati bandung punya program studi apa,prodi,6
+kasih tahu program studi uin sunan gunung djati bandung,prodi,6
+uin sunan gunung djati bandung jurus apa ya,prodi,6
+mau tanya uin sunan gunung djati bandung program studi apa aja,prodi,6
+uin sunan gunung djati bandung tawar jurus apa aja sih,prodi,6
+yang tahu program studi uin sunan gunung djati bandung,prodi,6
+uin sunan gunung djati bandung program studi apa aja sih,prodi,6
+kasih tahu dong program studi ada uin sunan gunung djati bandung apa aja,prodi,6
+jalur masuk apa di uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+apa jalur masuk s1 sarjana uin bandung,jm_s1,7
+jalur masuk s1 sarjana,jm_s1,7
+jalur masuk apa untuk s1,jm_s1,7
+apa jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+mohon informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+anda jelas jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+ingin tahu jalur masuk tawar uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+informasi jalur masuk apa yang di uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+anda beri rincian kena jalur masuk uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+tarik tahu jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+mohon jelas jalur masuk uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+sampai informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+perlu informasi jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,jm_s1,7
+uin sunan gunung djati bandung jalur masuk apa aja buat program sarjana s1,jm_s1,7
+info dong jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,jm_s1,7
+gue mau tahu jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,jm_s1,7
+jalur masuk uin sunan gunung djati bandung buat s1 gimana aja,jm_s1,7
+kasih tahu jalur masuk uin sunan gunung djati bandung buat s1 apa aja,jm_s1,7
+ken tahu jalur masuk apa aja uin sunan gunung djati bandung buat s1,jm_s1,7
+uin sunan gunung djati bandung jalur masuk s1 nya apa aja,jm_s1,7
+apa aja sih jalur masuk uin sunan gunung djati bandung buat program sarjana s1,jm_s1,7
+yang tau jalur masuk uin sunan gunung djati bandung buat program sarjana s1,jm_s1,7
+kasih tau gak jalur masuk apa aja ada uin sunan gunung djati bandung buat program sarjana s1,jm_s1,7
+jalur seleksi snbp mungkin pilih semua jurus sedia uin sunan gunung djati bandung,snbp_jur,8
+seluruh program studi uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,snbp_jur,8
+semua jurus tawar uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,snbp_jur,8
+jalur seleksi snbp cakup pilih semua jurus ada uin sunan gunung djati bandung,snbp_jur,8
+jalur snbp izin calon mahasiswa pilih semua program studi uin sunan gunung djati bandung,snbp_jur,8
+semua jurus uin sunan gunung djati bandung pilih lalu proses seleksi snbp,snbp_jur,8
+seluruh jurus uin sunan gunung djati bandung sedia pilih lalu jalur snbp,snbp_jur,8
+proses seleksi snbp mungkin pilih semua jurus uin sunan gunung djati bandung,snbp_jur,8
+calon mahasiswa pilih seluruh jurus ada uin sunan gunung djati bandung lalu jalur seleksi snbp,snbp_jur,8
+pilih semua jurus uin sunan gunung djati bandung laku lalu jalur seleksi snbp,snbp_jur,8
+jalur seleksi snbp pilih semua jurus ada uin sunan gunung djati bandung,snbp_jur,8
+apa jurus sedia jalur masuk snbp uin bandung,snbp_jur,8
+snbp jurus,snbp_jur,8
+jurus apa lewat snbp,snbp_jur,8
+lewat jalur snbp pilih semua jurus uin sunan gunung djati bandung,snbp_jur,8
+semua jurus uin sunan gunung djati bandung pilih lewat snbp sih,snbp_jur,8
+kalau daftar lewat snbp pilih semua jurus uin sunan gunung djati bandung,snbp_jur,8
+jalur snbp bisa buat pilih semua jurus uin sunan gunung djati bandung,snbp_jur,8
+emang snbp buat masuk semua jurus uin sunan gunung djati bandung,snbp_jur,8
+lewat snbp semua jurus uin sunan gunung djati bandung ambil,snbp_jur,8
+nggak sih pilih semua jurus uin sunan gunung djati bandung lewat jalur snbp,snbp_jur,8
+kalau daftar snbp pilih jurus apa aja uin sunan gunung djati bandung,snbp_jur,8
+snbp buat pilih semua jurus uin sunan gunung djati bandung,snbp_jur,8
+lewat jalur snbp semua jurus uin sunan gunung djati bandung pilih sih,snbp_jur,8
+jalur seleksi snbt pilih semua jurus ada uin sunan gunung djati bandung,snbt_jur,9
+apa jurus sedia jalur masuk snbt uin bandung,snbt_jur,9
+snbt jurus,snbt_jur,9
+jurus apa lewat snbt,snbt_jur,9
+mohon informasi jalur seleksi snbt mungkin pilih semua jurus sedia uin sunan gunung djati bandung,snbt_jur,9
+ingin tanya lalu jalur seleksi snbt dapat pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+benar jalur seleksi snbt cakup pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+anda konfirmasi jalur seleksi snbt mungkin calon mahasiswa pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+jalur seleksi snbt beri opsi pilih semua jurus ada uin sunan gunung djati bandung,snbt_jur,9
+ingin apakah jalur seleksi snbt buka sempat pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+jalur seleksi snbt cakup semua jurus sedia uin sunan gunung djati bandung,snbt_jur,9
+mohon jelas jalur seleksi snbt mungkin pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+jalur seleksi snbt tawar pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+ingin tahu jalur seleksi snbt guna pilih semua jurus ada uin sunan gunung djati bandung,snbt_jur,9
+eh jalur snbt bisa buat milih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+tau jalur seleksi snbt buat pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+jalur snbt pilih semua jurus uin sunan gunung djati bandung sih,snbt_jur,9
+bro jalur snbt buat ambil semua jurus uin sunan gunung djati bandung ya,snbt_jur,9
+ken tau aja jalur snbt bisa milih semua jurus uin sunan gunung djati bandung nggak,snbt_jur,9
+turut lo jalur snbt nggak sih buat pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+gimana sih jalur snbt bisa buat pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+jadi jalur snbt bisa milih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+nanya dong jalur snbt bisa pilih semua jurus uin sunan gunung djati bandung,snbt_jur,9
+sebenernya jalur snbt buat milih semua jurus uin sunan gunung djati bandung gimana sih,snbt_jur,9
+jalur seleksi span ptkin pilih semua jurus ada uin sunan gunung djati bandung,spanpt_jur,10
+apa jurus sedia jalur masuk span ptkin uin bandung,spanpt_jur,10
+jalur seleksi span ptkin pilih seluruh jurus sedia uin sunan gunung djati bandung,spanpt_jur,10
+jalur span ptkin beri pilih semua program studi uin sunan gunung djati bandung,spanpt_jur,10
+program seleksi span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+jalur span ptkin cakup seluruh jurus uin sunan gunung djati bandung,spanpt_jur,10
+tiap jurus uin sunan gunung djati bandung pilih lalu jalur span ptkin,spanpt_jur,10
+ada batas pilih jurus lalu jalur span ptkin uin sunan gunung djati bandung,spanpt_jur,10
+semua program studi uin sunan gunung djati bandung buka pilih lalu span ptkin,spanpt_jur,10
+jalur span ptkin izin pilih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+calon mahasiswa pilih seluruh jurus uin sunan gunung djati bandung lalu span ptkin,spanpt_jur,10
+ada jurus jalur seleksi span ptkin uin sunan gunung djati bandung,spanpt_jur,10
+nggak jalur span ptkin milih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+jalur span ptkin pilih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+span ptkin nggak buat milih jurus apa aja uin sunan gunung djati bandung,spanpt_jur,10
+semua jurus uin sunan gunung djati bandung pilih lewat span ptkin sih,spanpt_jur,10
+kalo lewat span ptkin pilih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+jalur span ptkin cakup semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+lewat span ptkin milih semua jurus uin sunan gunung djati bandung ya,spanpt_jur,10
+span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,spanpt_jur,10
+span ptkin semua jurus uin sunan gunung djati bandung pilih,spanpt_jur,10
+nggak batas jurus bisa pilih uin sunan gunung djati bandung lewat span ptkin,spanpt_jur,10
+jalur seleksi umptkin pilih semua jurus ada uin sunan gunung djati bandung,umpt_jur,11
+apa jurus sedia jalur masuk umptkin uin bandung,umpt_jur,11
+umptkin jurus,umpt_jur,11
+jalur seleksi umptkin mungkin pilih semua jurus sedia uin sunan gunung djati bandung,umpt_jur,11
+mohon informasi jalur seleksi umptkin cakup semua program studi uin sunan gunung djati bandung,umpt_jur,11
+jalur umptkin beri bebas pilih tiap jurus uin sunan gunung djati bandung,umpt_jur,11
+tentu jalur seleksi umptkin izin pilih semua jurus uin sunan gunung djati bandung,umpt_jur,11
+semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,umpt_jur,11
+serta seleksi umptkin milik opsi pilih semua jurus uin sunan gunung djati bandung,umpt_jur,11
+jalur seleksi umptkin sedia pilih semua jurus uin sunan gunung djati bandung,umpt_jur,11
+ada batas pilih jurus lalu jalur seleksi umptkin uin sunan gunung djati bandung,umpt_jur,11
+jalur seleksi umptkin uin sunan gunung djati bandung cakup semua program studi ada,umpt_jur,11
+seleksi umptkin mungkin mahasiswa pilih tiap jurus uin sunan gunung djati bandung,umpt_jur,11
+jalur umptkin pilih semua jurus uin sunan gunung djati bandung sih,umpt_jur,11
+beneran jalur umptkin cakup semua jurus uin sunan gunung djati bandung,umpt_jur,11
+kalau daftar lewat umptkin ambil semua jurus uin sunan gunung djati bandung,umpt_jur,11
+umptkin bisa pilih jurus apa uin sunan gunung djati bandung,umpt_jur,11
+semua jurus uin sunan gunung djati bandung pilih lewat umptkin,umpt_jur,11
+lewat umptkin ambil semua jurus uin sunan gunung djati bandung,umpt_jur,11
+umptkin mungkin buat pilih semua jurus uin sunan gunung djati bandung sih,umpt_jur,11
+jalur umptkin buat masuk semua jurus uin sunan gunung djati bandung,umpt_jur,11
+semua program studi uin sunan gunung djati bandung akses lewat umptkin,umpt_jur,11
+kalau daftar umptkin bebas pilih jurus apa uin sunan gunung djati bandung,umpt_jur,11
+jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,man_jur,12
+mohon informasi jalur seleksi mandiri mungkin pilih semua jurus sedia uin sunan gunung djati bandung,man_jur,12
+benar lalu jalur seleksi mandiri calon mahasiswa pilih seluruh jurus tawar uin sunan gunung djati bandung,man_jur,12
+ingin tahu jalur seleksi mandiri beri sempat pilih semua program studi uin sunan gunung djati bandung,man_jur,12
+jalur seleksi mandiri cakup pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+anda jelas jalur seleksi mandiri cakup semua jurus sedia uin sunan gunung djati bandung,man_jur,12
+mohon klarifikasi jalur seleksi mandiri mungkin pilih semua jurus ada uin sunan gunung djati bandung,man_jur,12
+jalur seleksi mandiri sedia opsi pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+ingin apakah jalur seleksi mandiri uin sunan gunung djati bandung cakup semua program studi tawar,man_jur,12
+beritahukan jalur seleksi mandiri mungkin mahasiswa pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+bisa jelas lalu jalur seleksi mandiri calon mahasiswa pilih semua jurus ada uin sunan gunung djati bandung,man_jur,12
+nggak sih jalur seleksi mandiri milih semua jurus ada uin sunan gunung djati bandung,man_jur,12
+lewat jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+aku ken tahu jalur seleksi mandiri nggak buat pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+jalur seleksi mandiri bisa milih semua jurus uin sunan gunung djati bandung,man_jur,12
+bener jalur seleksi mandiri buat pilih semua jurus uin sunan gunung djati bandung,man_jur,12
+jalur seleksi mandiri uin sunan gunung djati bandung pilih semua jurus,man_jur,12
+gimana sih jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,man_jur,12
+lewat jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung kan,man_jur,12
+ken tahu aja jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,man_jur,12
+apa jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,jm_s2,13
+bagaimana prosedur terima program pasca sarjana s2 uin sunan gunung djati bandung,jm_s2,13
+anda jelas jalur masuk sedia program pasca sarjana s2 uin sunan gunung djati bandung,jm_s2,13
+mohon informasi kena jalur terima uin sunan gunung djati bandung program pasca sarjana s2,jm_s2,13
+apa syarat jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,jm_s2,13
+informasi jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2 sangat perlu,jm_s2,13
+jalur khusus terima program pasca sarjana s2 uin sunan gunung djati bandung,jm_s2,13
+anda beri rincian jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,jm_s2,13
+ingin tahu informasi kena jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,jm_s2,13
+jelas jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2,jm_s2,13
+uin sunan gunung djati bandung jalur masuk apa aja buat s2,jm_s2,13
+gimana sih cara masuk s2 uin sunan gunung djati bandung,jm_s2,13
+jalur masuk s2 uin sunan gunung djati bandung tuh apa aja,jm_s2,13
+info gak soal jalur masuk s2 uin sunan gunung djati bandung,jm_s2,13
+mau tanya jalur masuk s2 uin sunan gunung djati bandung gimana aja,jm_s2,13
+buat masuk s2 uin sunan gunung djati bandung jalur apa aja,jm_s2,13
+jalur khusus gak buat masuk s2 uin sunan gunung djati bandung,jm_s2,13
+kasih tahu gak jalur masuk s2 uin sunan gunung djati bandung,jm_s2,13
+ken tahu nih jalur masuk apa aja buat s2 uin sunan gunung djati bandung,jm_s2,13
+uin sunan gunung djati bandung jalur masuk s2 nya apa aja,jm_s2,13
+mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+mana bisa cari info terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+gimana cara dapetin info soal terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+yang tahu di mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+info terima mahasiswa baru uin sunan gunung djati bandung didapetin mana,portal_pmb,14
+mana sih tempat buat cari info terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+gue butuh info terima mahasiswa baru uin sunan gunung djati bandung cari mana,portal_pmb,14
+info soal mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+kalau mau cari info terima mahasiswa baru uin sunan gunung djati bandung ke mana,portal_pmb,14
+cari info terima mahasiswa baru uin sunan gunung djati bandung mana,portal_pmb,14
+mana tempat buat dapetin info terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+mohon informasi kena terima mahasiswa baru uin sunan gunung djati bandung oleh mana,portal_pmb,14
+ingin tahu lokasi sumber informasi kait terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+anda beri detail kena tempat bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+mana dapat akses informasi kait terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+mohon jelas kena sumber informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+ada pandu kena lokasi oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+perlu informasi kena prosedur lokasi dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+sampai mana bisa informasi resmi kait terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+portal tempat khusus oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,portal_pmb,14
+perlu informasi detail kena mana dapat tahu terima mahasiswa baru uin sunan gunung,portal_pmb,14
+berapa biaya didik uin sunan gunung djati bandung,ukt,15
+mohon informasi kena biaya didik universitas islam negeri sunan gunung djati bandung,ukt,15
+ingin tahu berapa biaya perlu tempuh didik uin sunan gunung djati bandung,ukt,15
+anda beri rincian biaya kuliah uin sunan gunung djati bandung,ukt,15
+informasi estimasi biaya didik uin sunan gunung djati bandung,ukt,15
+saya detail kena biaya didik uin sunan gunung djati bandung,ukt,15
+butuh informasi lengkap biaya kuliah uin sunan gunung djati bandung,ukt,15
+sampai saya besar biaya harus bayar kuliah uin sunan gunung djati bandung,ukt,15
+mohon informasi kait biaya didik laku uin sunan gunung djati bandung,ukt,15
+ingin tahu berapa biaya didik uin sunan gunung djati bandung semester,ukt,15
+tolong jelas berapa biaya butuh kuliah uin sunan gunung djati bandung,ukt,15
+berapa sih biaya kuliah uin sunan gunung djati bandung,ukt,15
+yang tahu berapa biaya didik uin sunan gunung djati bandung,ukt,15
+mau nanya biaya kuliah uin sunan gunung djati bandung berapa,ukt,15
+biaya kuliah uin sunan gunung djati bandung berapa sih,ukt,15
+kasih tahu berapa biaya didik uin sunan gunung djati bandung,ukt,15
+gimana sih biaya kuliah uin sunan gunung djati bandung,ukt,15
+yang kasih info soal biaya didik uin sunan gunung djati bandung,ukt,15
+berapa biaya harus bayar buat kuliah uin sunan gunung djati bandung,ukt,15
+mau tanya biaya didik uin sunan gunung djati bandung gede,ukt,15
+jelasin berapa biaya kuliah uin sunan gunung djati bandung,ukt,15
+dapat program beasiswa uin sunan gunung djati bandung,beasiswa,16
+mohon informasi di uin sunan gunung djati bandung tawar beasiswa,beasiswa,16
+ingin tahu uin sunan gunung djati bandung milik beasiswa sedia,beasiswa,16
+anda memberitahu apakah uin sunan gunung djati bandung beasiswa,beasiswa,16
+anda beri informasi ada beasiswa uin sunan gunung djati bandung,beasiswa,16
+mohon jelas ada program beasiswa uin sunan gunung djati bandung,beasiswa,16
+ingin tanya di uin sunan gunung djati bandung sempat dapat beasiswa,beasiswa,16
+mohon konfirmasi uin sunan gunung djati bandung milik informasi kait beasiswa,beasiswa,16
+informasi di uin sunan gunung djati bandung sedia beasiswa,beasiswa,16
+mohon klarifikasi ada beasiswa tawar uin sunan gunung djati bandung,beasiswa,16
+beasiswa uin sunan gunung djati bandung,beasiswa,16
+beasiswa di uin sunan gunung djati bandung,beasiswa,16
+uin sunan gunung djati bandung beasiswa,beasiswa,16
+beasiswa uin sunan gunung djati bandung nggak,beasiswa,16
+uin sunan gunung djati bandung punya beasiswa,beasiswa,16
+info soal beasiswa uin sunan gunung djati bandung,beasiswa,16
+beasiswa uin sunan gunung djati bandung info lengkap,beasiswa,16
+minta info dong uin sunan gunung djati bandung beasiswa,beasiswa,16
+beasiswa uin sunan gunung djati bandung gak sih,beasiswa,16

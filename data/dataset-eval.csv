@@ -1,0 +1,248 @@
+,train_patterns,test_patterns,score
+0,hi,Hi,0.9999999
+1,halo,Halo,1.0000002
+2,selamat pagi,Selamat Pagi,1.0000002
+3,selamat siang,Selamat Siang,1.0000002
+4,selamat sore,Selamat Sore,1.0000002
+5,selamat malam,Selamat Malam,1.0000002
+6,program studi apa di uin sunan gunung djati bandung,Ada program studi apa saja di UIN Sunan Gunung Djati Bandung?,1.0000002
+7,apa jurus uin bandung,Apa saja jurusan di UIN Bandung,1.0000002
+8,jurus apa,Ada jurusan apa saja?,1.0000002
+9,mohon informasi kena program studi sedia uin sunan gunung djati bandung,Mohon informasi mengenai program studi yang tersedia di UIN Sunan Gunung Djati Bandung.,1.0000002
+10,saya daftar program studi uin sunan gunung djati bandung,Dapatkah saya memperoleh daftar program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+11,ikan rincian program studi tawar uin sunan gunung djati bandung,Tolong berikan rincian program studi yang ditawarkan di UIN Sunan Gunung Djati Bandung.,1.0000002
+12,ingin tahu program studi apa yang di uin sunan gunung djati bandung,Saya ingin mengetahui program studi apa saja yang ada di UIN Sunan Gunung Djati Bandung.,1.0000002
+13,anda sebut program studi ada uin sunan gunung djati bandung,Bisakah Anda menyebutkan program studi yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+14,anda milik informasi program studi uin sunan gunung djati bandung,Apakah Anda memiliki informasi tentang program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+15,saya tahu program studi sedia uin sunan gunung djati bandung,Dapatkah saya mengetahui program studi yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+16,mohon bantu beri informasi kena program studi uin sunan gunung djati bandung,Mohon bantuannya untuk memberikan informasi mengenai program studi di UIN Sunan Gunung Djati Bandung.,1.0000002
+17,tarik tahu program studi apa yang tawar uin sunan gunung djati bandung,Saya tertarik untuk mengetahui program studi apa saja yang ditawarkan di UIN Sunan Gunung Djati Bandung.,1.0000002
+18,jelas program studi sedia uin sunan gunung djati bandung,Tolong jelaskan program studi yang tersedia di UIN Sunan Gunung Djati Bandung.,1.0000002
+19,program studi apa yang di uin sunan gunung djati bandung,Program studi apa saja yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+20,jurus apa di uin sunan gunung djati bandung,Ada jurusan apa saja di UIN Sunan Gunung Djati Bandung?,1.0000002
+21,uin sunan gunung djati bandung punya program studi apa,UIN Sunan Gunung Djati Bandung punya program studi apa saja?,1.0000002
+22,kasih tahu program studi uin sunan gunung djati bandung,Bisa kasih tahu nggak program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+23,uin sunan gunung djati bandung jurus apa ya,"Di UIN Sunan Gunung Djati Bandung ada jurusan apa saja, ya?",1.0000002
+24,mau tanya uin sunan gunung djati bandung program studi apa aja,"Mau tanya, di UIN Sunan Gunung Djati Bandung ada program studi apa aja?",1.0000002
+25,uin sunan gunung djati bandung tawar jurus apa aja sih,UIN Sunan Gunung Djati Bandung menawarkan jurusan apa aja sih?,1.0000002
+26,yang tahu program studi uin sunan gunung djati bandung,Ada yang tahu program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+27,uin sunan gunung djati bandung program studi apa aja sih,"Di UIN Sunan Gunung Djati Bandung itu program studinya apa aja, sih?",1.0000002
+28,kasih tahu dong program studi ada uin sunan gunung djati bandung apa aja,"Kasih tahu dong, program studi yang ada di UIN Sunan Gunung Djati Bandung apa aja?",1.0000002
+29,jalur masuk apa di uin sunan gunung djati bandung program sarjana s1,Ada jalur masuk apa saja di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,1.0000002
+30,apa jalur masuk s1 sarjana uin bandung,Apa saja jalur masuk S1/Sarjana UIN Bandung,1.0000002
+31,jalur masuk s1 sarjana,Jalur Masuk S1/Sarjana,1.0000002
+32,jalur masuk apa untuk s1,Ada jalur masuk apa saja untuk S1?,1.0000002
+33,apa jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Apa saja jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,1.0000002
+34,mohon informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,Mohon informasi mengenai jalur masuk yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+35,anda jelas jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Dapatkah Anda menjelaskan jalur masuk yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,1.0000002
+36,ingin tahu jalur masuk tawar uin sunan gunung djati bandung program sarjana s1,Saya ingin mengetahui jalur masuk yang ditawarkan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+37,informasi jalur masuk apa yang di uin sunan gunung djati bandung program sarjana s1,Tolong informasikan jalur masuk apa saja yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+38,anda beri rincian kena jalur masuk uin sunan gunung djati bandung program sarjana s1,Bisakah Anda memberikan rincian mengenai jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,1.0000002
+39,tarik tahu jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Saya tertarik untuk mengetahui jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+40,mohon jelas jalur masuk uin sunan gunung djati bandung program sarjana s1,Mohon penjelasan tentang jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+41,sampai informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,Tolong sampaikan informasi mengenai jalur masuk yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+42,perlu informasi jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Saya memerlukan informasi tentang jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,1.0000002
+43,uin sunan gunung djati bandung jalur masuk apa aja buat program sarjana s1,UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat Program Sarjana (S1)?,1.0000002
+44,info dong jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,"Info dong, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) apa aja?",1.0000002
+45,gue mau tahu jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,"Gue mau tahu, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) ada apa aja?",1.0000002
+46,jalur masuk uin sunan gunung djati bandung buat s1 gimana aja,Jalur masuk ke UIN Sunan Gunung Djati Bandung buat S1 gimana aja ya?,1.0000002
+47,kasih tahu jalur masuk uin sunan gunung djati bandung buat s1 apa aja,Bisa kasih tahu jalur masuk UIN Sunan Gunung Djati Bandung buat S1 apa aja?,1.0000002
+48,ken tahu jalur masuk apa aja uin sunan gunung djati bandung buat s1,"Pengen tahu, ada jalur masuk apa aja di UIN Sunan Gunung Djati Bandung buat S1?",1.0000002
+49,uin sunan gunung djati bandung jalur masuk s1 nya apa aja,"UIN Sunan Gunung Djati Bandung, jalur masuk S1-nya apa aja?",1.0000002
+50,apa aja sih jalur masuk uin sunan gunung djati bandung buat program sarjana s1,Apa aja sih jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,1.0000002
+51,yang tau jalur masuk uin sunan gunung djati bandung buat program sarjana s1,Ada yang tau jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,1.0000002
+52,kasih tau gak jalur masuk apa aja ada uin sunan gunung djati bandung buat program sarjana s1,"Bisa kasih tau gak, jalur masuk apa aja yang ada di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?",1.0000002
+53,jalur seleksi snbp mungkin pilih semua jurus sedia uin sunan gunung djati bandung,UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat Program Sarjana (S1)?,1.0000002
+54,seluruh program studi uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,"Info dong, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) apa aja?",1.0000002
+55,semua jurus tawar uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,"Gue mau tahu, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) ada apa aja?",1.0000002
+56,jalur seleksi snbp cakup pilih semua jurus ada uin sunan gunung djati bandung,Jalur masuk ke UIN Sunan Gunung Djati Bandung buat S1 gimana aja ya?,1.0000002
+57,jalur snbp izin calon mahasiswa pilih semua program studi uin sunan gunung djati bandung,Bisa kasih tahu jalur masuk UIN Sunan Gunung Djati Bandung buat S1 apa aja?,1.0000002
+58,semua jurus uin sunan gunung djati bandung pilih lalu proses seleksi snbp,"Pengen tahu, ada jalur masuk apa aja di UIN Sunan Gunung Djati Bandung buat S1?",1.0000002
+59,seluruh jurus uin sunan gunung djati bandung sedia pilih lalu jalur snbp,"UIN Sunan Gunung Djati Bandung, jalur masuk S1-nya apa aja?",1.0000002
+60,proses seleksi snbp mungkin pilih semua jurus uin sunan gunung djati bandung,Apa aja sih jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,1.0000002
+61,calon mahasiswa pilih seluruh jurus ada uin sunan gunung djati bandung lalu jalur seleksi snbp,Ada yang tau jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,1.0000002
+62,pilih semua jurus uin sunan gunung djati bandung laku lalu jalur seleksi snbp,"Bisa kasih tau gak, jalur masuk apa aja yang ada di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?",1.0000002
+63,jalur seleksi snbp pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi SNBP memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+64,apa jurus sedia jalur masuk snbp uin bandung,Apakah seluruh program studi di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi SNBP?,1.0000002
+65,snbp jurus,Bisakah semua jurusan yang ditawarkan oleh UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi SNBP?,1.0000002
+66,jurus apa lewat snbp,Apakah jalur seleksi SNBP mencakup pemilihan semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+67,lewat jalur snbp pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SNBP mengizinkan calon mahasiswa memilih semua program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+68,semua jurus uin sunan gunung djati bandung pilih lewat snbp sih,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui proses seleksi SNBP?,1.0000002
+69,kalau daftar lewat snbp pilih semua jurus uin sunan gunung djati bandung,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung tersedia untuk dipilih melalui jalur SNBP?,1.0000002
+70,jalur snbp bisa buat pilih semua jurus uin sunan gunung djati bandung,Apakah proses seleksi SNBP memungkinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+71,emang snbp buat masuk semua jurus uin sunan gunung djati bandung,Bisakah calon mahasiswa memilih seluruh jurusan yang ada di UIN Sunan Gunung Djati Bandung melalui jalur seleksi SNBP?,1.0000002
+72,lewat snbp semua jurus uin sunan gunung djati bandung ambil,Apakah pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung bisa dilakukan melalui jalur seleksi SNBP?,1.0000002
+73,nggak sih pilih semua jurus uin sunan gunung djati bandung lewat jalur snbp,Apakah jalur seleksi SNBP bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+74,kalau daftar snbp pilih jurus apa aja uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SNBP di UIN Bandung,1.0000002
+75,snbp buat pilih semua jurus uin sunan gunung djati bandung,SNBP Jurusan,1.0000002
+76,lewat jalur snbp semua jurus uin sunan gunung djati bandung pilih sih,Ada jurusan apa saja lewat SNBP?,1.0000002
+77,jalur seleksi snbt pilih semua jurus ada uin sunan gunung djati bandung,"Lewat jalur SNBP bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+78,apa jurus sedia jalur masuk snbt uin bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SNBP nggak sih?,1.0000002
+79,snbt jurus,"Kalau daftar lewat SNBP, bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+80,jurus apa lewat snbt,Jalur SNBP itu bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,1.0000002
+81,mohon informasi jalur seleksi snbt mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Emang SNBP bisa buat masuk ke semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+82,ingin tanya lalu jalur seleksi snbt dapat pilih semua jurus uin sunan gunung djati bandung,"Lewat SNBP, semua jurusan di UIN Sunan Gunung Djati Bandung bisa diambil, nggak?",1.0000002
+83,benar jalur seleksi snbt cakup pilih semua jurus uin sunan gunung djati bandung,Bisa nggak sih pilih semua jurusan di UIN Sunan Gunung Djati Bandung lewat jalur SNBP?,1.0000002
+84,anda konfirmasi jalur seleksi snbt mungkin calon mahasiswa pilih semua jurus uin sunan gunung djati bandung,"Kalau daftar SNBP, bisa pilih jurusan apa aja di UIN Sunan Gunung Djati Bandung?",1.0000002
+85,jalur seleksi snbt beri opsi pilih semua jurus ada uin sunan gunung djati bandung,"SNBP bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+86,ingin apakah jalur seleksi snbt buka sempat pilih semua jurus uin sunan gunung djati bandung,"Lewat jalur SNBP, semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih nggak sih?",1.0000002
+87,jalur seleksi snbt cakup semua jurus sedia uin sunan gunung djati bandung,Apakah jalur seleksi SNBT bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+88,mohon jelas jalur seleksi snbt mungkin pilih semua jurus uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SNBT di UIN Bandung,1.0000002
+89,jalur seleksi snbt tawar pilih semua jurus uin sunan gunung djati bandung,SNBT Jurusan,1.0000002
+90,ingin tahu jalur seleksi snbt guna pilih semua jurus ada uin sunan gunung djati bandung,Ada jurusan apa saja lewat SNBT?,1.0000002
+91,eh jalur snbt bisa buat milih semua jurus uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi SNBT memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?",1.0000002
+92,tau jalur seleksi snbt buat pilih semua jurus uin sunan gunung djati bandung,"Saya ingin bertanya, apakah melalui jalur seleksi SNBT kita dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+93,jalur snbt pilih semua jurus uin sunan gunung djati bandung sih,Apakah benar bahwa jalur seleksi SNBT mencakup pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+94,bro jalur snbt buat ambil semua jurus uin sunan gunung djati bandung ya,"Dapatkah Anda konfirmasi, apakah jalur seleksi SNBT memungkinkan calon mahasiswa untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+95,ken tau aja jalur snbt bisa milih semua jurus uin sunan gunung djati bandung nggak,Apakah jalur seleksi SNBT memberikan opsi untuk memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+96,turut lo jalur snbt nggak sih buat pilih semua jurus uin sunan gunung djati bandung,"Saya ingin memastikan, apakah jalur seleksi SNBT membuka kesempatan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+97,gimana sih jalur snbt bisa buat pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBT mencakup semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+98,jadi jalur snbt bisa milih semua jurus uin sunan gunung djati bandung,"Mohon penjelasan, apakah jalur seleksi SNBT memungkinkan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+99,nanya dong jalur snbt bisa pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBT menawarkan pilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+100,sebenernya jalur snbt buat milih semua jurus uin sunan gunung djati bandung gimana sih,"Saya ingin mengetahui, apakah jalur seleksi SNBT bisa digunakan untuk memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",1.0000002
+101,jalur seleksi span ptkin pilih semua jurus ada uin sunan gunung djati bandung,"Eh, jalur SNBT itu bisa buat milih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+102,apa jurus sedia jalur masuk span ptkin uin bandung,"Tau nggak, jalur seleksi SNBT bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+103,jalur seleksi span ptkin pilih seluruh jurus sedia uin sunan gunung djati bandung,Jalur SNBT bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,1.0000002
+104,jalur span ptkin beri pilih semua program studi uin sunan gunung djati bandung,"Bro, jalur SNBT bisa buat ambil semua jurusan di UIN Sunan Gunung Djati Bandung, nggak ya?",1.0000002
+105,program seleksi span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,"Pengen tau aja, jalur SNBT itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung atau nggak?",1.0000002
+106,jalur span ptkin cakup seluruh jurus uin sunan gunung djati bandung,"Menurut lo, jalur SNBT bisa nggak sih buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+107,tiap jurus uin sunan gunung djati bandung pilih lalu jalur span ptkin,"Gimana sih, jalur SNBT itu bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+108,ada batas pilih jurus lalu jalur span ptkin uin sunan gunung djati bandung,"Jadi, jalur SNBT itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",1.0000002
+109,semua program studi uin sunan gunung djati bandung buka pilih lalu span ptkin,"Nanya dong, jalur SNBT itu bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+110,jalur span ptkin izin pilih semua jurus uin sunan gunung djati bandung,Sebenernya jalur SNBT bisa buat milih semua jurusan di UIN Sunan Gunung Djati Bandung atau gimana sih?,1.0000002
+111,calon mahasiswa pilih seluruh jurus uin sunan gunung djati bandung lalu span ptkin,Apakah jalur seleksi SPAN-PTKIN bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+112,ada jurus jalur seleksi span ptkin uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SPAN-PTKIN di UIN Bandung,1.0000002
+113,nggak jalur span ptkin milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SPAN-PTKIN dapat memilih seluruh jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+114,jalur span ptkin pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur SPAN-PTKIN memberikan pilihan untuk semua program studi di UIN Sunan Gunung Djati Bandung?,1.0000002
+115,span ptkin nggak buat milih jurus apa aja uin sunan gunung djati bandung,Apakah program seleksi SPAN-PTKIN memungkinkan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+116,semua jurus uin sunan gunung djati bandung pilih lewat span ptkin sih,Apakah jalur SPAN-PTKIN mencakup seluruh jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+117,kalo lewat span ptkin pilih semua jurus uin sunan gunung djati bandung,Apakah setiap jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SPAN-PTKIN?,1.0000002
+118,jalur span ptkin cakup semua jurus uin sunan gunung djati bandung,Apakah ada pembatasan dalam memilih jurusan melalui jalur SPAN-PTKIN di UIN Sunan Gunung Djati Bandung?,1.0000002
+119,lewat span ptkin milih semua jurus uin sunan gunung djati bandung ya,Apakah semua program studi di UIN Sunan Gunung Djati Bandung terbuka untuk dipilih melalui SPAN-PTKIN?,1.0000002
+120,span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN mengizinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+121,span ptkin semua jurus uin sunan gunung djati bandung pilih,Bisakah calon mahasiswa memilih seluruh jurusan di UIN Sunan Gunung Djati Bandung melalui SPAN-PTKIN?,1.0000002
+122,nggak batas jurus bisa pilih uin sunan gunung djati bandung lewat span ptkin,Apakah ada pengecualian jurusan dalam jalur seleksi SPAN-PTKIN di UIN Sunan Gunung Djati Bandung?,1.0000002
+123,jalur seleksi umptkin pilih semua jurus ada uin sunan gunung djati bandung,Bisa nggak jalur SPAN-PTKIN milih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+124,apa jurus sedia jalur masuk umptkin uin bandung,"Jalur SPAN-PTKIN bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+125,umptkin jurus,SPAN-PTKIN bisa nggak buat milih jurusan apa aja di UIN Sunan Gunung Djati Bandung?,1.0000002
+126,jalur seleksi umptkin mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SPAN-PTKIN nggak sih?,1.0000002
+127,mohon informasi jalur seleksi umptkin cakup semua program studi uin sunan gunung djati bandung,"Kalo lewat SPAN-PTKIN, bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",1.0000002
+128,jalur umptkin beri bebas pilih tiap jurus uin sunan gunung djati bandung,"Jalur SPAN-PTKIN mencakup semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+129,tentu jalur seleksi umptkin izin pilih semua jurus uin sunan gunung djati bandung,Lewat SPAN-PTKIN bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak ya?,1.0000002
+130,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,"SPAN-PTKIN memungkinkan pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",1.0000002
+131,serta seleksi umptkin milik opsi pilih semua jurus uin sunan gunung djati bandung,"Di SPAN-PTKIN, semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih nggak?",1.0000002
+132,jalur seleksi umptkin sedia pilih semua jurus uin sunan gunung djati bandung,Ada nggak batasan jurusan yang bisa dipilih di UIN Sunan Gunung Djati Bandung lewat SPAN-PTKIN?,1.0000002
+133,ada batas pilih jurus lalu jalur seleksi umptkin uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+134,jalur seleksi umptkin uin sunan gunung djati bandung cakup semua program studi ada,Apa saja jurusan yang tersedia untuk jalur masuk UMPTKIN di UIN Bandung,1.0000002
+135,seleksi umptkin mungkin mahasiswa pilih tiap jurus uin sunan gunung djati bandung,UMPTKIN Jurusan,1.0000002
+136,jalur umptkin pilih semua jurus uin sunan gunung djati bandung sih,Apakah jalur seleksi UMPTKIN memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+137,beneran jalur umptkin cakup semua jurus uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi UMPTKIN dapat mencakup semua program studi di UIN Sunan Gunung Djati Bandung?",1.0000002
+138,kalau daftar lewat umptkin ambil semua jurus uin sunan gunung djati bandung,Apakah jalur UMPTKIN memberikan kebebasan untuk memilih setiap jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+139,umptkin bisa pilih jurus apa uin sunan gunung djati bandung,Adakah ketentuan dalam jalur seleksi UMPTKIN yang mengizinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+140,semua jurus uin sunan gunung djati bandung pilih lewat umptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,1.0000002
+141,lewat umptkin ambil semua jurus uin sunan gunung djati bandung,Apakah peserta seleksi UMPTKIN memiliki opsi untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+142,umptkin mungkin buat pilih semua jurus uin sunan gunung djati bandung sih,"Dalam jalur seleksi UMPTKIN, apakah tersedia pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+143,jalur umptkin buat masuk semua jurus uin sunan gunung djati bandung,Apakah ada batasan dalam pemilihan jurusan melalui jalur seleksi UMPTKIN di UIN Sunan Gunung Djati Bandung?,1.0000002
+144,semua program studi uin sunan gunung djati bandung akses lewat umptkin,Apakah jalur seleksi UMPTKIN UIN Sunan Gunung Djati Bandung mencakup semua program studi yang ada?,1.0000002
+145,kalau daftar umptkin bebas pilih jurus apa uin sunan gunung djati bandung,Apakah seleksi UMPTKIN memungkinkan mahasiswa memilih setiap jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+146,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Jalur UMPTKIN bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,1.0000002
+147,mohon informasi jalur seleksi mandiri mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Beneran jalur UMPTKIN bisa mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+148,benar lalu jalur seleksi mandiri calon mahasiswa pilih seluruh jurus tawar uin sunan gunung djati bandung,"Kalau daftar lewat UMPTKIN, bisa ambil semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",1.0000002
+149,ingin tahu jalur seleksi mandiri beri sempat pilih semua program studi uin sunan gunung djati bandung,UMPTKIN itu bisa pilih jurusan apapun di UIN Sunan Gunung Djati Bandung ya?,1.0000002
+150,jalur seleksi mandiri cakup pilih semua jurus uin sunan gunung djati bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat UMPTKIN?,1.0000002
+151,anda jelas jalur seleksi mandiri cakup semua jurus sedia uin sunan gunung djati bandung,Lewat UMPTKIN bisa ambil semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,1.0000002
+152,mohon klarifikasi jalur seleksi mandiri mungkin pilih semua jurus ada uin sunan gunung djati bandung,UMPTKIN memungkinkan buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,1.0000002
+153,jalur seleksi mandiri sedia opsi pilih semua jurus uin sunan gunung djati bandung,Jalur UMPTKIN bisa buat masuk semua jurusan di UIN Sunan Gunung Djati Bandung ya?,1.0000002
+154,ingin apakah jalur seleksi mandiri uin sunan gunung djati bandung cakup semua program studi tawar,Semua program studi di UIN Sunan Gunung Djati Bandung bisa diakses lewat UMPTKIN nggak?,1.0000002
+155,beritahukan jalur seleksi mandiri mungkin mahasiswa pilih semua jurus uin sunan gunung djati bandung,"Kalau daftar UMPTKIN, bebas pilih jurusan apapun di UIN Sunan Gunung Djati Bandung?",1.0000002
+156,bisa jelas lalu jalur seleksi mandiri calon mahasiswa pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+157,nggak sih jalur seleksi mandiri milih semua jurus ada uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi Mandiri memungkinkan untuk memilih semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?",1.0000002
+158,lewat jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,"Apakah benar bahwa melalui jalur seleksi Mandiri, calon mahasiswa dapat memilih seluruh jurusan yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?",1.0000002
+159,aku ken tahu jalur seleksi mandiri nggak buat pilih semua jurus uin sunan gunung djati bandung,Saya ingin mengetahui apakah jalur seleksi Mandiri memberikan kesempatan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung.,1.0000002
+160,jalur seleksi mandiri bisa milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri mencakup pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+161,bener jalur seleksi mandiri buat pilih semua jurus uin sunan gunung djati bandung,Dapatkah Anda menjelaskan apakah jalur seleksi Mandiri mencakup semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,1.0000002
+162,jalur seleksi mandiri uin sunan gunung djati bandung pilih semua jurus,"Mohon klarifikasi, apakah jalur seleksi Mandiri memungkinkan pemilihan semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",1.0000002
+163,gimana sih jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri menyediakan opsi untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+164,lewat jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung kan,Saya ingin memastikan apakah jalur seleksi Mandiri di UIN Sunan Gunung Djati Bandung mencakup semua program studi yang ditawarkan.,1.0000002
+165,ken tahu aja jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,"Tolong beritahukan, apakah jalur seleksi Mandiri memungkinkan mahasiswa memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+166,apa jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,"Apakah bisa dijelaskan apakah melalui jalur seleksi Mandiri, calon mahasiswa dapat memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",1.0000002
+167,bagaimana prosedur terima program pasca sarjana s2 uin sunan gunung djati bandung,Bisa nggak sih jalur seleksi Mandiri milih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,1.0000002
+168,anda jelas jalur masuk sedia program pasca sarjana s2 uin sunan gunung djati bandung,Apakah lewat jalur seleksi Mandiri bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+169,mohon informasi kena jalur terima uin sunan gunung djati bandung program pasca sarjana s2,"Aku pengen tahu, jalur seleksi Mandiri bisa nggak buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+170,apa syarat jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,Jalur seleksi Mandiri itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,1.0000002
+171,informasi jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2 sangat perlu,Apakah bener jalur seleksi Mandiri bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?,1.0000002
+172,jalur khusus terima program pasca sarjana s2 uin sunan gunung djati bandung,Jalur seleksi Mandiri UIN Sunan Gunung Djati Bandung bisa pilih semua jurusan ya?,1.0000002
+173,anda beri rincian jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,"Gimana sih, jalur seleksi Mandiri bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",1.0000002
+174,ingin tahu informasi kena jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,Lewat jalur seleksi Mandiri bisa pilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung kan?,1.0000002
+175,jelas jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2,Apakah jalur seleksi Mandiri di UIN Sunan Gunung Djati Bandung bisa pilih semua jurusan?,1.0000002
+176,uin sunan gunung djati bandung jalur masuk apa aja buat s2,"Pengen tahu aja, apakah jalur seleksi Mandiri bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung?",1.0000002
+177,gimana sih cara masuk s2 uin sunan gunung djati bandung,Apa saja jalur penerimaan mahasiswa di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2)?,1.0000002
+178,jalur masuk s2 uin sunan gunung djati bandung tuh apa aja,Bagaimana prosedur penerimaan untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,1.0000002
+179,info gak soal jalur masuk s2 uin sunan gunung djati bandung,Dapatkah Anda menjelaskan jalur masuk yang tersedia untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,1.0000002
+180,mau tanya jalur masuk s2 uin sunan gunung djati bandung gimana aja,Mohon informasi mengenai jalur penerimaan di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,1.0000002
+181,buat masuk s2 uin sunan gunung djati bandung jalur apa aja,Apa saja persyaratan jalur masuk untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,1.0000002
+182,jalur khusus gak buat masuk s2 uin sunan gunung djati bandung,Informasi tentang jalur penerimaan mahasiswa baru di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2) sangat diperlukan.,1.0000002
+183,kasih tahu gak jalur masuk s2 uin sunan gunung djati bandung,Adakah jalur khusus untuk penerimaan Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,1.0000002
+184,ken tahu nih jalur masuk apa aja buat s2 uin sunan gunung djati bandung,Bisakah Anda memberikan rincian jalur masuk ke Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,1.0000002
+185,uin sunan gunung djati bandung jalur masuk s2 nya apa aja,Saya ingin mengetahui informasi mengenai jalur penerimaan mahasiswa di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,1.0000002
+186,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Tolong jelaskan jalur penerimaan mahasiswa baru di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,1.0000002
+187,mana bisa cari info terima mahasiswa baru uin sunan gunung djati bandung,Di UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat S2?,1.0000002
+188,gimana cara dapetin info soal terima mahasiswa baru uin sunan gunung djati bandung,Gimana sih cara masuk S2 di UIN Sunan Gunung Djati Bandung?,1.0000002
+189,yang tahu di mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,Jalur masuk S2 di UIN Sunan Gunung Djati Bandung tuh apa aja ya?,1.0000002
+190,info terima mahasiswa baru uin sunan gunung djati bandung didapetin mana,Ada info gak soal jalur masuk S2 di UIN Sunan Gunung Djati Bandung?,1.0000002
+191,mana sih tempat buat cari info terima mahasiswa baru uin sunan gunung djati bandung,"Mau tanya, jalur masuk S2 di UIN Sunan Gunung Djati Bandung gimana aja?",1.0000002
+192,gue butuh info terima mahasiswa baru uin sunan gunung djati bandung cari mana,Buat masuk S2 di UIN Sunan Gunung Djati Bandung ada jalur apa aja?,1.0000002
+193,info soal mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,Ada jalur khusus gak buat masuk S2 di UIN Sunan Gunung Djati Bandung?,1.0000002
+194,kalau mau cari info terima mahasiswa baru uin sunan gunung djati bandung ke mana,Bisa kasih tahu gak jalur masuk S2 di UIN Sunan Gunung Djati Bandung?,1.0000002
+195,cari info terima mahasiswa baru uin sunan gunung djati bandung mana,"Pengen tahu nih, ada jalur masuk apa aja buat S2 di UIN Sunan Gunung Djati Bandung?",1.0000002
+196,mana tempat buat dapetin info terima mahasiswa baru uin sunan gunung djati bandung,Di UIN Sunan Gunung Djati Bandung jalur masuk S2-nya ada apa aja?,1.0000002
+197,mohon informasi kena terima mahasiswa baru uin sunan gunung djati bandung oleh mana,Di mana saya bisa mendapat informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+198,ingin tahu lokasi sumber informasi kait terima mahasiswa baru uin sunan gunung djati bandung,Di mana ya bisa cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+199,anda beri detail kena tempat bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Gimana caranya dapetin info soal Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+200,mana dapat akses informasi kait terima mahasiswa baru uin sunan gunung djati bandung,Ada yang tahu nggak di mana bisa dapet info Penerimaan Mahasiswa Baru UIN Sunan Gunung Djati Bandung?,1.0000002
+201,mohon jelas kena sumber informasi terima mahasiswa baru uin sunan gunung djati bandung,"Info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa didapetin di mana, ya?",1.0000002
+202,ada pandu kena lokasi oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana sih tempat buat cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+203,perlu informasi kena prosedur lokasi dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,"Gue butuh info tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung, bisa cari di mana?",1.0000002
+204,sampai mana bisa informasi resmi kait terima mahasiswa baru uin sunan gunung djati bandung,Ada info nggak soal di mana bisa dapet info Penerimaan Mahasiswa Baru UIN Sunan Gunung Djati Bandung?,1.0000002
+205,portal tempat khusus oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,"Kalau mau cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung, harus ke mana?",1.0000002
+206,perlu informasi detail kena mana dapat tahu terima mahasiswa baru uin sunan gunung,Cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung di mana ya?,1.0000002
+207,berapa biaya didik uin sunan gunung djati bandung,Di mana tempatnya buat dapetin info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+208,mohon informasi kena biaya didik universitas islam negeri sunan gunung djati bandung,Mohon informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diperoleh di mana?,1.0000002
+209,ingin tahu berapa biaya perlu tempuh didik uin sunan gunung djati bandung,Saya ingin mengetahui lokasi atau sumber informasi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,1.0000002
+210,anda beri rincian biaya kuliah uin sunan gunung djati bandung,Bisakah Anda memberikan detail mengenai tempat saya bisa mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+211,informasi estimasi biaya didik uin sunan gunung djati bandung,Dimana saya dapat mengakses informasi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+212,saya detail kena biaya didik uin sunan gunung djati bandung,Mohon penjelasan mengenai sumber informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,1.0000002
+213,butuh informasi lengkap biaya kuliah uin sunan gunung djati bandung,Apakah ada panduan mengenai lokasi untuk memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+214,sampai saya besar biaya harus bayar kuliah uin sunan gunung djati bandung,Saya memerlukan informasi mengenai prosedur dan lokasi untuk mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,1.0000002
+215,mohon informasi kait biaya didik laku uin sunan gunung djati bandung,Tolong sampaikan di mana saya bisa mendapatkan informasi resmi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,1.0000002
+216,ingin tahu berapa biaya didik uin sunan gunung djati bandung semester,Adakah portal atau tempat khusus untuk memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,1.0000002
+217,tolong jelas berapa biaya butuh kuliah uin sunan gunung djati bandung,Saya memerlukan informasi detail mengenai di mana saya dapat mengetahui tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung,1.0000002
+218,berapa sih biaya kuliah uin sunan gunung djati bandung,Berapa biaya Pendidikan di UIN Sunan Gunung Djati Bandung?,1.0000002
+219,yang tahu berapa biaya didik uin sunan gunung djati bandung,Mohon informasi mengenai biaya pendidikan di Universitas Islam Negeri Sunan Gunung Djati Bandung.,1.0000002
+220,mau nanya biaya kuliah uin sunan gunung djati bandung berapa,Saya ingin mengetahui berapa biaya yang diperlukan untuk menempuh pendidikan di UIN Sunan Gunung Djati Bandung.,1.0000002
+221,biaya kuliah uin sunan gunung djati bandung berapa sih,Dapatkah Anda memberikan rincian biaya kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+222,kasih tahu berapa biaya didik uin sunan gunung djati bandung,Tolong informasikan estimasi biaya pendidikan di UIN Sunan Gunung Djati Bandung.,1.0000002
+223,gimana sih biaya kuliah uin sunan gunung djati bandung,Bisakah saya memperoleh detail mengenai biaya pendidikan di UIN Sunan Gunung Djati Bandung?,1.0000002
+224,yang kasih info soal biaya didik uin sunan gunung djati bandung,Saya membutuhkan informasi lengkap tentang biaya kuliah di UIN Sunan Gunung Djati Bandung.,1.0000002
+225,berapa biaya harus bayar buat kuliah uin sunan gunung djati bandung,Tolong sampaikan kepada saya besaran biaya yang harus dibayarkan untuk kuliah di UIN Sunan Gunung Djati Bandung.,1.0000002
+226,mau tanya biaya didik uin sunan gunung djati bandung gede,Mohon informasi terkait biaya pendidikan yang berlaku di UIN Sunan Gunung Djati Bandung.,1.0000002
+227,jelasin berapa biaya kuliah uin sunan gunung djati bandung,Saya ingin mengetahui berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung untuk semester ini.,1.0000002
+228,dapat program beasiswa uin sunan gunung djati bandung,Bisa tolong dijelaskan berapa biaya yang dibutuhkan untuk kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+229,mohon informasi di uin sunan gunung djati bandung tawar beasiswa,Berapa sih biaya kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+230,ingin tahu uin sunan gunung djati bandung milik beasiswa sedia,Ada yang tahu berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung?,1.0000002
+231,anda memberitahu apakah uin sunan gunung djati bandung beasiswa,"Mau nanya, biaya kuliah di UIN Sunan Gunung Djati Bandung berapa ya?",1.0000002
+232,anda beri informasi ada beasiswa uin sunan gunung djati bandung,Biaya kuliah di UIN Sunan Gunung Djati Bandung berapaan sih?,1.0000002
+233,mohon jelas ada program beasiswa uin sunan gunung djati bandung,"Bisa kasih tahu nggak, berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung?",1.0000002
+234,ingin tanya di uin sunan gunung djati bandung sempat dapat beasiswa,Gimana sih biaya kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+235,mohon konfirmasi uin sunan gunung djati bandung milik informasi kait beasiswa,Ada yang bisa kasih info soal biaya pendidikan di UIN Sunan Gunung Djati Bandung?,1.0000002
+236,informasi di uin sunan gunung djati bandung sedia beasiswa,Berapa biaya yang harus dibayar buat kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+237,mohon klarifikasi ada beasiswa tawar uin sunan gunung djati bandung,"Mau tanya, biaya pendidikan di UIN Sunan Gunung Djati Bandung gede nggak?",1.0000002
+238,beasiswa uin sunan gunung djati bandung,Bisa jelasin nggak berapa biaya kuliah di UIN Sunan Gunung Djati Bandung?,1.0000002
+239,beasiswa di uin sunan gunung djati bandung,Apakah terdapat program beasiswa di UIN Sunan Gunung Djati Bandung?,1.0000002
+240,uin sunan gunung djati bandung beasiswa,Mohon informasi apakah di UIN Sunan Gunung Djati Bandung ada penawaran beasiswa.,1.0000002
+241,beasiswa uin sunan gunung djati bandung nggak,Saya ingin mengetahui apakah UIN Sunan Gunung Djati Bandung memiliki beasiswa yang tersedia.,1.0000002
+242,uin sunan gunung djati bandung punya beasiswa,Bisakah Anda memberitahu saya apakah di UIN Sunan Gunung Djati Bandung terdapat beasiswa?,1.0000002
+243,info soal beasiswa uin sunan gunung djati bandung,Dapatkah Anda memberikan informasi tentang adanya beasiswa di UIN Sunan Gunung Djati Bandung?,1.0000002
+244,beasiswa uin sunan gunung djati bandung info lengkap,Mohon penjelasan apakah ada program beasiswa di UIN Sunan Gunung Djati Bandung.,1.0000002
+245,minta info dong uin sunan gunung djati bandung beasiswa,Saya ingin menanyakan apakah di UIN Sunan Gunung Djati Bandung ada kesempatan untuk mendapatkan beasiswa.,1.0000002
+246,beasiswa uin sunan gunung djati bandung gak sih,Mohon konfirmasi apakah UIN Sunan Gunung Djati Bandung memiliki informasi terkait beasiswa.,1.0000002
