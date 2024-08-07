@@ -1,248 +1,559 @@
 ,sentence_1,sentence_2,label
-0,hi,Hi,1.0
-1,halo,Halo,1.000000238418579
-2,selamat pagi,Selamat Pagi,1.0
+0,hi,Hi,0.9999998807907104
+1,halo,Halo,1.0
+2,selamat pagi,Selamat Pagi,1.0000001192092896
 3,selamat siang,Selamat Siang,1.0
-4,selamat sore,Selamat Sore,0.9999997615814209
-5,selamat malam,Selamat Malam,1.0
+4,selamat sore,Selamat Sore,0.9999999403953552
+5,selamat malam,Selamat Malam,0.9999998807907104
 6,program studi apa di uin sunan gunung djati bandung,Ada program studi apa saja di UIN Sunan Gunung Djati Bandung?,0.9671374559402466
-7,apa jurus uin bandung,Apa saja jurusan di UIN Bandung,0.7727212905883789
-8,jurus apa,Ada jurusan apa saja?,0.4017470180988312
-9,mohon informasi kena program studi sedia uin sunan gunung djati bandung,Mohon informasi mengenai program studi yang tersedia di UIN Sunan Gunung Djati Bandung.,0.9315598011016846
-10,saya daftar program studi uin sunan gunung djati bandung,Dapatkah saya memperoleh daftar program studi di UIN Sunan Gunung Djati Bandung?,0.9239268898963928
-11,ikan rincian program studi tawar uin sunan gunung djati bandung,Tolong berikan rincian program studi yang ditawarkan di UIN Sunan Gunung Djati Bandung.,0.7517348527908325
-12,ingin tahu program studi apa yang di uin sunan gunung djati bandung,Saya ingin mengetahui program studi apa saja yang ada di UIN Sunan Gunung Djati Bandung.,0.9534704685211182
-13,anda sebut program studi ada uin sunan gunung djati bandung,Bisakah Anda menyebutkan program studi yang ada di UIN Sunan Gunung Djati Bandung?,0.9155311584472656
-14,anda milik informasi program studi uin sunan gunung djati bandung,Apakah Anda memiliki informasi tentang program studi di UIN Sunan Gunung Djati Bandung?,0.9060284495353699
-15,saya tahu program studi sedia uin sunan gunung djati bandung,Dapatkah saya mengetahui program studi yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9146959781646729
-16,mohon bantu beri informasi kena program studi uin sunan gunung djati bandung,Mohon bantuannya untuk memberikan informasi mengenai program studi di UIN Sunan Gunung Djati Bandung.,0.9260940551757812
-17,tarik tahu program studi apa yang tawar uin sunan gunung djati bandung,Saya tertarik untuk mengetahui program studi apa saja yang ditawarkan di UIN Sunan Gunung Djati Bandung.,0.8819094300270081
-18,jelas program studi sedia uin sunan gunung djati bandung,Tolong jelaskan program studi yang tersedia di UIN Sunan Gunung Djati Bandung.,0.8933311700820923
-19,program studi apa yang di uin sunan gunung djati bandung,Program studi apa saja yang ada di UIN Sunan Gunung Djati Bandung?,0.9704498052597046
-20,jurus apa di uin sunan gunung djati bandung,Ada jurusan apa saja di UIN Sunan Gunung Djati Bandung?,0.8646918535232544
-21,uin sunan gunung djati bandung punya program studi apa,UIN Sunan Gunung Djati Bandung punya program studi apa saja?,0.9848551750183105
-22,kasih tahu program studi uin sunan gunung djati bandung,Bisa kasih tahu nggak program studi di UIN Sunan Gunung Djati Bandung?,0.9151648879051208
-23,uin sunan gunung djati bandung jurus apa ya,"Di UIN Sunan Gunung Djati Bandung ada jurusan apa saja, ya?",0.8399208188056946
-24,mau tanya uin sunan gunung djati bandung program studi apa aja,"Mau tanya, di UIN Sunan Gunung Djati Bandung ada program studi apa aja?",0.9779027700424194
-25,uin sunan gunung djati bandung tawar jurus apa aja sih,UIN Sunan Gunung Djati Bandung menawarkan jurusan apa aja sih?,0.8003333806991577
-26,yang tahu program studi uin sunan gunung djati bandung,Ada yang tahu program studi di UIN Sunan Gunung Djati Bandung?,0.960342526435852
-27,uin sunan gunung djati bandung program studi apa aja sih,"Di UIN Sunan Gunung Djati Bandung itu program studinya apa aja, sih?",0.9552509784698486
-28,kasih tahu dong program studi ada uin sunan gunung djati bandung apa aja,"Kasih tahu dong, program studi yang ada di UIN Sunan Gunung Djati Bandung apa aja?",0.9750200510025024
-29,jalur masuk apa di uin sunan gunung djati bandung program sarjana s1,Ada jalur masuk apa saja di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9730383157730103
-30,apa jalur masuk s1 sarjana uin bandung,Apa saja jalur masuk S1/Sarjana UIN Bandung,0.9717071652412415
-31,jalur masuk s1 sarjana,Jalur Masuk S1/Sarjana,0.9898403882980347
-32,jalur masuk apa untuk s1,Ada jalur masuk apa saja untuk S1?,0.9396042823791504
-33,apa jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Apa saja jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9535772204399109
-34,mohon informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,Mohon informasi mengenai jalur masuk yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.9519753456115723
-35,anda jelas jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Dapatkah Anda menjelaskan jalur masuk yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9264169931411743
-36,ingin tahu jalur masuk tawar uin sunan gunung djati bandung program sarjana s1,Saya ingin mengetahui jalur masuk yang ditawarkan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.8941390514373779
-37,informasi jalur masuk apa yang di uin sunan gunung djati bandung program sarjana s1,Tolong informasikan jalur masuk apa saja yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.9082576036453247
-38,anda beri rincian kena jalur masuk uin sunan gunung djati bandung program sarjana s1,Bisakah Anda memberikan rincian mengenai jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9002382755279541
-39,tarik tahu jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Saya tertarik untuk mengetahui jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.8801947832107544
-40,mohon jelas jalur masuk uin sunan gunung djati bandung program sarjana s1,Mohon penjelasan tentang jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.9649034738540649
-41,sampai informasi kena jalur masuk ada uin sunan gunung djati bandung program sarjana s1,Tolong sampaikan informasi mengenai jalur masuk yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.8627482056617737
-42,perlu informasi jalur masuk sedia uin sunan gunung djati bandung program sarjana s1,Saya memerlukan informasi tentang jalur masuk yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1).,0.9069290161132812
-43,uin sunan gunung djati bandung jalur masuk apa aja buat program sarjana s1,UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat Program Sarjana (S1)?,0.9835751056671143
-44,info dong jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,"Info dong, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) apa aja?",0.9793897867202759
-45,gue mau tahu jalur masuk uin sunan gunung djati bandung buat program sarjana s1 apa aja,"Gue mau tahu, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) ada apa aja?",0.9741445183753967
-46,jalur masuk uin sunan gunung djati bandung buat s1 gimana aja,Jalur masuk ke UIN Sunan Gunung Djati Bandung buat S1 gimana aja ya?,0.9809257984161377
-47,kasih tahu jalur masuk uin sunan gunung djati bandung buat s1 apa aja,Bisa kasih tahu jalur masuk UIN Sunan Gunung Djati Bandung buat S1 apa aja?,0.9769736528396606
-48,ken tahu jalur masuk apa aja uin sunan gunung djati bandung buat s1,"Pengen tahu, ada jalur masuk apa aja di UIN Sunan Gunung Djati Bandung buat S1?",0.913353443145752
-49,uin sunan gunung djati bandung jalur masuk s1 nya apa aja,"UIN Sunan Gunung Djati Bandung, jalur masuk S1-nya apa aja?",0.9863293170928955
-50,apa aja sih jalur masuk uin sunan gunung djati bandung buat program sarjana s1,Apa aja sih jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,0.9900824427604675
-51,yang tau jalur masuk uin sunan gunung djati bandung buat program sarjana s1,Ada yang tau jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,0.9728801846504211
-52,kasih tau gak jalur masuk apa aja ada uin sunan gunung djati bandung buat program sarjana s1,"Bisa kasih tau gak, jalur masuk apa aja yang ada di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?",0.9679065942764282
-53,jalur seleksi snbp mungkin pilih semua jurus sedia uin sunan gunung djati bandung,UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat Program Sarjana (S1)?,0.770825982093811
-54,seluruh program studi uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,"Info dong, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) apa aja?",0.7474485039710999
-55,semua jurus tawar uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,"Gue mau tahu, jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1) ada apa aja?",0.695912778377533
-56,jalur seleksi snbp cakup pilih semua jurus ada uin sunan gunung djati bandung,Jalur masuk ke UIN Sunan Gunung Djati Bandung buat S1 gimana aja ya?,0.6949990391731262
-57,jalur snbp izin calon mahasiswa pilih semua program studi uin sunan gunung djati bandung,Bisa kasih tahu jalur masuk UIN Sunan Gunung Djati Bandung buat S1 apa aja?,0.7894931435585022
-58,semua jurus uin sunan gunung djati bandung pilih lalu proses seleksi snbp,"Pengen tahu, ada jalur masuk apa aja di UIN Sunan Gunung Djati Bandung buat S1?",0.7061469554901123
-59,seluruh jurus uin sunan gunung djati bandung sedia pilih lalu jalur snbp,"UIN Sunan Gunung Djati Bandung, jalur masuk S1-nya apa aja?",0.7497844696044922
-60,proses seleksi snbp mungkin pilih semua jurus uin sunan gunung djati bandung,Apa aja sih jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,0.6936080455780029
-61,calon mahasiswa pilih seluruh jurus ada uin sunan gunung djati bandung lalu jalur seleksi snbp,Ada yang tau jalur masuk di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?,0.78759765625
-62,pilih semua jurus uin sunan gunung djati bandung laku lalu jalur seleksi snbp,"Bisa kasih tau gak, jalur masuk apa aja yang ada di UIN Sunan Gunung Djati Bandung buat Program Sarjana (S1)?",0.6980732083320618
-63,jalur seleksi snbp pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi SNBP memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,0.8958436846733093
-64,apa jurus sedia jalur masuk snbp uin bandung,Apakah seluruh program studi di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi SNBP?,0.6431360244750977
-65,snbp jurus,Bisakah semua jurusan yang ditawarkan oleh UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi SNBP?,0.09615474939346313
-66,jurus apa lewat snbp,Apakah jalur seleksi SNBP mencakup pemilihan semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.2800949811935425
-67,lewat jalur snbp pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SNBP mengizinkan calon mahasiswa memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.8213620185852051
-68,semua jurus uin sunan gunung djati bandung pilih lewat snbp sih,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui proses seleksi SNBP?,0.8060870170593262
-69,kalau daftar lewat snbp pilih semua jurus uin sunan gunung djati bandung,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung tersedia untuk dipilih melalui jalur SNBP?,0.8096449375152588
-70,jalur snbp bisa buat pilih semua jurus uin sunan gunung djati bandung,Apakah proses seleksi SNBP memungkinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8262958526611328
-71,emang snbp buat masuk semua jurus uin sunan gunung djati bandung,Bisakah calon mahasiswa memilih seluruh jurusan yang ada di UIN Sunan Gunung Djati Bandung melalui jalur seleksi SNBP?,0.6767680644989014
-72,lewat snbp semua jurus uin sunan gunung djati bandung ambil,Apakah pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung bisa dilakukan melalui jalur seleksi SNBP?,0.6931581497192383
-73,nggak sih pilih semua jurus uin sunan gunung djati bandung lewat jalur snbp,Apakah jalur seleksi SNBP bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8442005515098572
-74,kalau daftar snbp pilih jurus apa aja uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SNBP di UIN Bandung,0.7053529024124146
-75,snbp buat pilih semua jurus uin sunan gunung djati bandung,SNBP Jurusan,0.4352513551712036
-76,lewat jalur snbp semua jurus uin sunan gunung djati bandung pilih sih,Ada jurusan apa saja lewat SNBP?,0.5519391894340515
-77,jalur seleksi snbt pilih semua jurus ada uin sunan gunung djati bandung,"Lewat jalur SNBP bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.8521292209625244
-78,apa jurus sedia jalur masuk snbt uin bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SNBP nggak sih?,0.6491345167160034
-79,snbt jurus,"Kalau daftar lewat SNBP, bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.09498295933008194
-80,jurus apa lewat snbt,Jalur SNBP itu bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,0.30040669441223145
-81,mohon informasi jalur seleksi snbt mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Emang SNBP bisa buat masuk ke semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7251237630844116
-82,ingin tanya lalu jalur seleksi snbt dapat pilih semua jurus uin sunan gunung djati bandung,"Lewat SNBP, semua jurusan di UIN Sunan Gunung Djati Bandung bisa diambil, nggak?",0.7363861799240112
-83,benar jalur seleksi snbt cakup pilih semua jurus uin sunan gunung djati bandung,Bisa nggak sih pilih semua jurusan di UIN Sunan Gunung Djati Bandung lewat jalur SNBP?,0.8154189586639404
-84,anda konfirmasi jalur seleksi snbt mungkin calon mahasiswa pilih semua jurus uin sunan gunung djati bandung,"Kalau daftar SNBP, bisa pilih jurusan apa aja di UIN Sunan Gunung Djati Bandung?",0.7853015065193176
-85,jalur seleksi snbt beri opsi pilih semua jurus ada uin sunan gunung djati bandung,"SNBP bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.7831942439079285
-86,ingin apakah jalur seleksi snbt buka sempat pilih semua jurus uin sunan gunung djati bandung,"Lewat jalur SNBP, semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih nggak sih?",0.8478346467018127
-87,jalur seleksi snbt cakup semua jurus sedia uin sunan gunung djati bandung,Apakah jalur seleksi SNBT bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8551730513572693
-88,mohon jelas jalur seleksi snbt mungkin pilih semua jurus uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SNBT di UIN Bandung,0.7463003993034363
-89,jalur seleksi snbt tawar pilih semua jurus uin sunan gunung djati bandung,SNBT Jurusan,0.39741095900535583
-90,ingin tahu jalur seleksi snbt guna pilih semua jurus ada uin sunan gunung djati bandung,Ada jurusan apa saja lewat SNBT?,0.5777312517166138
-91,eh jalur snbt bisa buat milih semua jurus uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi SNBT memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?",0.854292631149292
-92,tau jalur seleksi snbt buat pilih semua jurus uin sunan gunung djati bandung,"Saya ingin bertanya, apakah melalui jalur seleksi SNBT kita dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.8508599996566772
-93,jalur snbt pilih semua jurus uin sunan gunung djati bandung sih,Apakah benar bahwa jalur seleksi SNBT mencakup pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8361819982528687
-94,bro jalur snbt buat ambil semua jurus uin sunan gunung djati bandung ya,"Dapatkah Anda konfirmasi, apakah jalur seleksi SNBT memungkinkan calon mahasiswa untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7373639941215515
-95,ken tau aja jalur snbt bisa milih semua jurus uin sunan gunung djati bandung nggak,Apakah jalur seleksi SNBT memberikan opsi untuk memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.7976144552230835
-96,turut lo jalur snbt nggak sih buat pilih semua jurus uin sunan gunung djati bandung,"Saya ingin memastikan, apakah jalur seleksi SNBT membuka kesempatan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7524431943893433
-97,gimana sih jalur snbt bisa buat pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBT mencakup semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,0.8812538385391235
-98,jadi jalur snbt bisa milih semua jurus uin sunan gunung djati bandung,"Mohon penjelasan, apakah jalur seleksi SNBT memungkinkan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.8455251455307007
-99,nanya dong jalur snbt bisa pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBT menawarkan pilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8943310976028442
-100,sebenernya jalur snbt buat milih semua jurus uin sunan gunung djati bandung gimana sih,"Saya ingin mengetahui, apakah jalur seleksi SNBT bisa digunakan untuk memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",0.8366982340812683
-101,jalur seleksi span ptkin pilih semua jurus ada uin sunan gunung djati bandung,"Eh, jalur SNBT itu bisa buat milih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.8082904815673828
-102,apa jurus sedia jalur masuk span ptkin uin bandung,"Tau nggak, jalur seleksi SNBT bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.6060046553611755
-103,jalur seleksi span ptkin pilih seluruh jurus sedia uin sunan gunung djati bandung,Jalur SNBT bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,0.7878553867340088
-104,jalur span ptkin beri pilih semua program studi uin sunan gunung djati bandung,"Bro, jalur SNBT bisa buat ambil semua jurusan di UIN Sunan Gunung Djati Bandung, nggak ya?",0.7717617750167847
-105,program seleksi span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,"Pengen tau aja, jalur SNBT itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung atau nggak?",0.7489216327667236
-106,jalur span ptkin cakup seluruh jurus uin sunan gunung djati bandung,"Menurut lo, jalur SNBT bisa nggak sih buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7124718427658081
-107,tiap jurus uin sunan gunung djati bandung pilih lalu jalur span ptkin,"Gimana sih, jalur SNBT itu bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7566226720809937
-108,ada batas pilih jurus lalu jalur span ptkin uin sunan gunung djati bandung,"Jadi, jalur SNBT itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",0.7615103125572205
-109,semua program studi uin sunan gunung djati bandung buka pilih lalu span ptkin,"Nanya dong, jalur SNBT itu bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.7403706908226013
-110,jalur span ptkin izin pilih semua jurus uin sunan gunung djati bandung,Sebenernya jalur SNBT bisa buat milih semua jurusan di UIN Sunan Gunung Djati Bandung atau gimana sih?,0.803833544254303
-111,calon mahasiswa pilih seluruh jurus uin sunan gunung djati bandung lalu span ptkin,Apakah jalur seleksi SPAN-PTKIN bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8167358636856079
-112,ada jurus jalur seleksi span ptkin uin sunan gunung djati bandung,Apa saja jurusan yang tersedia untuk jalur masuk SPAN-PTKIN di UIN Bandung,0.6958566904067993
-113,nggak jalur span ptkin milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SPAN-PTKIN dapat memilih seluruh jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,0.8158752918243408
-114,jalur span ptkin pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur SPAN-PTKIN memberikan pilihan untuk semua program studi di UIN Sunan Gunung Djati Bandung?,0.8315370082855225
-115,span ptkin nggak buat milih jurus apa aja uin sunan gunung djati bandung,Apakah program seleksi SPAN-PTKIN memungkinkan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7458334565162659
-116,semua jurus uin sunan gunung djati bandung pilih lewat span ptkin sih,Apakah jalur SPAN-PTKIN mencakup seluruh jurusan di UIN Sunan Gunung Djati Bandung?,0.7961376905441284
-117,kalo lewat span ptkin pilih semua jurus uin sunan gunung djati bandung,Apakah setiap jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SPAN-PTKIN?,0.806806743144989
-118,jalur span ptkin cakup semua jurus uin sunan gunung djati bandung,Apakah ada pembatasan dalam memilih jurusan melalui jalur SPAN-PTKIN di UIN Sunan Gunung Djati Bandung?,0.7238374948501587
-119,lewat span ptkin milih semua jurus uin sunan gunung djati bandung ya,Apakah semua program studi di UIN Sunan Gunung Djati Bandung terbuka untuk dipilih melalui SPAN-PTKIN?,0.7126098871231079
-120,span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN mengizinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8338554501533508
-121,span ptkin semua jurus uin sunan gunung djati bandung pilih,Bisakah calon mahasiswa memilih seluruh jurusan di UIN Sunan Gunung Djati Bandung melalui SPAN-PTKIN?,0.7821524143218994
-122,nggak batas jurus bisa pilih uin sunan gunung djati bandung lewat span ptkin,Apakah ada pengecualian jurusan dalam jalur seleksi SPAN-PTKIN di UIN Sunan Gunung Djati Bandung?,0.7354458570480347
-123,jalur seleksi umptkin pilih semua jurus ada uin sunan gunung djati bandung,Bisa nggak jalur SPAN-PTKIN milih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8167738914489746
-124,apa jurus sedia jalur masuk umptkin uin bandung,"Jalur SPAN-PTKIN bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.6547290682792664
-125,umptkin jurus,SPAN-PTKIN bisa nggak buat milih jurusan apa aja di UIN Sunan Gunung Djati Bandung?,0.03545461967587471
-126,jalur seleksi umptkin mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SPAN-PTKIN nggak sih?,0.7894680500030518
-127,mohon informasi jalur seleksi umptkin cakup semua program studi uin sunan gunung djati bandung,"Kalo lewat SPAN-PTKIN, bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",0.7511081695556641
-128,jalur umptkin beri bebas pilih tiap jurus uin sunan gunung djati bandung,"Jalur SPAN-PTKIN mencakup semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.7671509981155396
-129,tentu jalur seleksi umptkin izin pilih semua jurus uin sunan gunung djati bandung,Lewat SPAN-PTKIN bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak ya?,0.777705192565918
-130,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,"SPAN-PTKIN memungkinkan pilih semua jurusan di UIN Sunan Gunung Djati Bandung, nggak?",0.7883634567260742
-131,serta seleksi umptkin milik opsi pilih semua jurus uin sunan gunung djati bandung,"Di SPAN-PTKIN, semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih nggak?",0.732345700263977
-132,jalur seleksi umptkin sedia pilih semua jurus uin sunan gunung djati bandung,Ada nggak batasan jurusan yang bisa dipilih di UIN Sunan Gunung Djati Bandung lewat SPAN-PTKIN?,0.7386680841445923
-133,ada batas pilih jurus lalu jalur seleksi umptkin uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8497069478034973
-134,jalur seleksi umptkin uin sunan gunung djati bandung cakup semua program studi ada,Apa saja jurusan yang tersedia untuk jalur masuk UMPTKIN di UIN Bandung,0.8200693130493164
-135,seleksi umptkin mungkin mahasiswa pilih tiap jurus uin sunan gunung djati bandung,UMPTKIN Jurusan,0.5411349534988403
-136,jalur umptkin pilih semua jurus uin sunan gunung djati bandung sih,Apakah jalur seleksi UMPTKIN memungkinkan pemilihan semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,0.8659817576408386
-137,beneran jalur umptkin cakup semua jurus uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi UMPTKIN dapat mencakup semua program studi di UIN Sunan Gunung Djati Bandung?",0.655229926109314
-138,kalau daftar lewat umptkin ambil semua jurus uin sunan gunung djati bandung,Apakah jalur UMPTKIN memberikan kebebasan untuk memilih setiap jurusan di UIN Sunan Gunung Djati Bandung?,0.7916301488876343
-139,umptkin bisa pilih jurus apa uin sunan gunung djati bandung,Adakah ketentuan dalam jalur seleksi UMPTKIN yang mengizinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.748773455619812
-140,semua jurus uin sunan gunung djati bandung pilih lewat umptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,0.7987197041511536
-141,lewat umptkin ambil semua jurus uin sunan gunung djati bandung,Apakah peserta seleksi UMPTKIN memiliki opsi untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.6599204540252686
-142,umptkin mungkin buat pilih semua jurus uin sunan gunung djati bandung sih,"Dalam jalur seleksi UMPTKIN, apakah tersedia pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7775254249572754
-143,jalur umptkin buat masuk semua jurus uin sunan gunung djati bandung,Apakah ada batasan dalam pemilihan jurusan melalui jalur seleksi UMPTKIN di UIN Sunan Gunung Djati Bandung?,0.7664235234260559
-144,semua program studi uin sunan gunung djati bandung akses lewat umptkin,Apakah jalur seleksi UMPTKIN UIN Sunan Gunung Djati Bandung mencakup semua program studi yang ada?,0.7793132066726685
-145,kalau daftar umptkin bebas pilih jurus apa uin sunan gunung djati bandung,Apakah seleksi UMPTKIN memungkinkan mahasiswa memilih setiap jurusan di UIN Sunan Gunung Djati Bandung?,0.8496685028076172
-146,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Jalur UMPTKIN bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,0.7701422572135925
-147,mohon informasi jalur seleksi mandiri mungkin pilih semua jurus sedia uin sunan gunung djati bandung,Beneran jalur UMPTKIN bisa mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7675310969352722
-148,benar lalu jalur seleksi mandiri calon mahasiswa pilih seluruh jurus tawar uin sunan gunung djati bandung,"Kalau daftar lewat UMPTKIN, bisa ambil semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",0.7078940868377686
-149,ingin tahu jalur seleksi mandiri beri sempat pilih semua program studi uin sunan gunung djati bandung,UMPTKIN itu bisa pilih jurusan apapun di UIN Sunan Gunung Djati Bandung ya?,0.7731136083602905
-150,jalur seleksi mandiri cakup pilih semua jurus uin sunan gunung djati bandung,Semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat UMPTKIN?,0.6984111070632935
-151,anda jelas jalur seleksi mandiri cakup semua jurus sedia uin sunan gunung djati bandung,Lewat UMPTKIN bisa ambil semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,0.6163702607154846
-152,mohon klarifikasi jalur seleksi mandiri mungkin pilih semua jurus ada uin sunan gunung djati bandung,UMPTKIN memungkinkan buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung nggak sih?,0.6698366403579712
-153,jalur seleksi mandiri sedia opsi pilih semua jurus uin sunan gunung djati bandung,Jalur UMPTKIN bisa buat masuk semua jurusan di UIN Sunan Gunung Djati Bandung ya?,0.7382493019104004
-154,ingin apakah jalur seleksi mandiri uin sunan gunung djati bandung cakup semua program studi tawar,Semua program studi di UIN Sunan Gunung Djati Bandung bisa diakses lewat UMPTKIN nggak?,0.6940034627914429
-155,beritahukan jalur seleksi mandiri mungkin mahasiswa pilih semua jurus uin sunan gunung djati bandung,"Kalau daftar UMPTKIN, bebas pilih jurusan apapun di UIN Sunan Gunung Djati Bandung?",0.7256731986999512
-156,bisa jelas lalu jalur seleksi mandiri calon mahasiswa pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.9045538306236267
-157,nggak sih jalur seleksi mandiri milih semua jurus ada uin sunan gunung djati bandung,"Mohon informasi, apakah jalur seleksi Mandiri memungkinkan untuk memilih semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?",0.8393212556838989
-158,lewat jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,"Apakah benar bahwa melalui jalur seleksi Mandiri, calon mahasiswa dapat memilih seluruh jurusan yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?",0.849348247051239
-159,aku ken tahu jalur seleksi mandiri nggak buat pilih semua jurus uin sunan gunung djati bandung,Saya ingin mengetahui apakah jalur seleksi Mandiri memberikan kesempatan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung.,0.7771329879760742
-160,jalur seleksi mandiri bisa milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri mencakup pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,0.888342559337616
-161,bener jalur seleksi mandiri buat pilih semua jurus uin sunan gunung djati bandung,Dapatkah Anda menjelaskan apakah jalur seleksi Mandiri mencakup semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung?,0.8382588624954224
-162,jalur seleksi mandiri uin sunan gunung djati bandung pilih semua jurus,"Mohon klarifikasi, apakah jalur seleksi Mandiri memungkinkan pemilihan semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",0.8196002840995789
-163,gimana sih jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri menyediakan opsi untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9010911583900452
-164,lewat jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung kan,Saya ingin memastikan apakah jalur seleksi Mandiri di UIN Sunan Gunung Djati Bandung mencakup semua program studi yang ditawarkan.,0.7991035580635071
-165,ken tahu aja jalur seleksi mandiri milih semua jurus uin sunan gunung djati bandung,"Tolong beritahukan, apakah jalur seleksi Mandiri memungkinkan mahasiswa memilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7850042581558228
-166,apa jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,"Apakah bisa dijelaskan apakah melalui jalur seleksi Mandiri, calon mahasiswa dapat memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?",0.8023760914802551
-167,bagaimana prosedur terima program pasca sarjana s2 uin sunan gunung djati bandung,Bisa nggak sih jalur seleksi Mandiri milih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.6893514394760132
-168,anda jelas jalur masuk sedia program pasca sarjana s2 uin sunan gunung djati bandung,Apakah lewat jalur seleksi Mandiri bisa pilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7782517075538635
-169,mohon informasi kena jalur terima uin sunan gunung djati bandung program pasca sarjana s2,"Aku pengen tahu, jalur seleksi Mandiri bisa nggak buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.7308593392372131
-170,apa syarat jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,Jalur seleksi Mandiri itu bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?,0.8250908851623535
-171,informasi jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2 sangat perlu,Apakah bener jalur seleksi Mandiri bisa buat pilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.6955437660217285
-172,jalur khusus terima program pasca sarjana s2 uin sunan gunung djati bandung,Jalur seleksi Mandiri UIN Sunan Gunung Djati Bandung bisa pilih semua jurusan ya?,0.7866320610046387
-173,anda beri rincian jalur masuk program pasca sarjana s2 uin sunan gunung djati bandung,"Gimana sih, jalur seleksi Mandiri bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung nggak?",0.7395092248916626
-174,ingin tahu informasi kena jalur terima mahasiswa uin sunan gunung djati bandung program pasca sarjana s2,Lewat jalur seleksi Mandiri bisa pilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung kan?,0.7339931130409241
-175,jelas jalur terima mahasiswa baru uin sunan gunung djati bandung program pasca sarjana s2,Apakah jalur seleksi Mandiri di UIN Sunan Gunung Djati Bandung bisa pilih semua jurusan?,0.772558331489563
-176,uin sunan gunung djati bandung jalur masuk apa aja buat s2,"Pengen tahu aja, apakah jalur seleksi Mandiri bisa milih semua jurusan di UIN Sunan Gunung Djati Bandung?",0.8150408267974854
-177,gimana sih cara masuk s2 uin sunan gunung djati bandung,Apa saja jalur penerimaan mahasiswa di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2)?,0.8340578079223633
-178,jalur masuk s2 uin sunan gunung djati bandung tuh apa aja,Bagaimana prosedur penerimaan untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,0.8104826807975769
-179,info gak soal jalur masuk s2 uin sunan gunung djati bandung,Dapatkah Anda menjelaskan jalur masuk yang tersedia untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,0.8250666260719299
-180,mau tanya jalur masuk s2 uin sunan gunung djati bandung gimana aja,Mohon informasi mengenai jalur penerimaan di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,0.8764057159423828
-181,buat masuk s2 uin sunan gunung djati bandung jalur apa aja,Apa saja persyaratan jalur masuk untuk Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,0.8346366286277771
-182,jalur khusus gak buat masuk s2 uin sunan gunung djati bandung,Informasi tentang jalur penerimaan mahasiswa baru di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2) sangat diperlukan.,0.7764679193496704
-183,kasih tahu gak jalur masuk s2 uin sunan gunung djati bandung,Adakah jalur khusus untuk penerimaan Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,0.8425716161727905
-184,ken tahu nih jalur masuk apa aja buat s2 uin sunan gunung djati bandung,Bisakah Anda memberikan rincian jalur masuk ke Program Pasca Sarjana (S2) di UIN Sunan Gunung Djati Bandung?,0.734818696975708
-185,uin sunan gunung djati bandung jalur masuk s2 nya apa aja,Saya ingin mengetahui informasi mengenai jalur penerimaan mahasiswa di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,0.8324432373046875
-186,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Tolong jelaskan jalur penerimaan mahasiswa baru di UIN Sunan Gunung Djati Bandung untuk Program Pasca Sarjana (S2).,0.8302944302558899
-187,mana bisa cari info terima mahasiswa baru uin sunan gunung djati bandung,Di UIN Sunan Gunung Djati Bandung ada jalur masuk apa aja buat S2?,0.846961498260498
-188,gimana cara dapetin info soal terima mahasiswa baru uin sunan gunung djati bandung,Gimana sih cara masuk S2 di UIN Sunan Gunung Djati Bandung?,0.8566787242889404
-189,yang tahu di mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,Jalur masuk S2 di UIN Sunan Gunung Djati Bandung tuh apa aja ya?,0.8012806177139282
-190,info terima mahasiswa baru uin sunan gunung djati bandung didapetin mana,Ada info gak soal jalur masuk S2 di UIN Sunan Gunung Djati Bandung?,0.8065733909606934
-191,mana sih tempat buat cari info terima mahasiswa baru uin sunan gunung djati bandung,"Mau tanya, jalur masuk S2 di UIN Sunan Gunung Djati Bandung gimana aja?",0.8398683071136475
-192,gue butuh info terima mahasiswa baru uin sunan gunung djati bandung cari mana,Buat masuk S2 di UIN Sunan Gunung Djati Bandung ada jalur apa aja?,0.7967716455459595
-193,info soal mana dapet info terima mahasiswa baru uin sunan gunung djati bandung,Ada jalur khusus gak buat masuk S2 di UIN Sunan Gunung Djati Bandung?,0.7737266421318054
-194,kalau mau cari info terima mahasiswa baru uin sunan gunung djati bandung ke mana,Bisa kasih tahu gak jalur masuk S2 di UIN Sunan Gunung Djati Bandung?,0.8575800657272339
-195,cari info terima mahasiswa baru uin sunan gunung djati bandung mana,"Pengen tahu nih, ada jalur masuk apa aja buat S2 di UIN Sunan Gunung Djati Bandung?",0.8399096727371216
-196,mana tempat buat dapetin info terima mahasiswa baru uin sunan gunung djati bandung,Di UIN Sunan Gunung Djati Bandung jalur masuk S2-nya ada apa aja?,0.8354972004890442
-197,mohon informasi kena terima mahasiswa baru uin sunan gunung djati bandung oleh mana,Di mana saya bisa mendapat informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8898519277572632
-198,ingin tahu lokasi sumber informasi kait terima mahasiswa baru uin sunan gunung djati bandung,Di mana ya bisa cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8757739067077637
-199,anda beri detail kena tempat bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Gimana caranya dapetin info soal Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.7856060862541199
-200,mana dapat akses informasi kait terima mahasiswa baru uin sunan gunung djati bandung,Ada yang tahu nggak di mana bisa dapet info Penerimaan Mahasiswa Baru UIN Sunan Gunung Djati Bandung?,0.853559672832489
-201,mohon jelas kena sumber informasi terima mahasiswa baru uin sunan gunung djati bandung,"Info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa didapetin di mana, ya?",0.8515112996101379
-202,ada pandu kena lokasi oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana sih tempat buat cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8026368618011475
-203,perlu informasi kena prosedur lokasi dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,"Gue butuh info tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung, bisa cari di mana?",0.7708768844604492
-204,sampai mana bisa informasi resmi kait terima mahasiswa baru uin sunan gunung djati bandung,Ada info nggak soal di mana bisa dapet info Penerimaan Mahasiswa Baru UIN Sunan Gunung Djati Bandung?,0.8503291606903076
-205,portal tempat khusus oleh informasi terima mahasiswa baru uin sunan gunung djati bandung,"Kalau mau cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung, harus ke mana?",0.7666056156158447
-206,perlu informasi detail kena mana dapat tahu terima mahasiswa baru uin sunan gunung,Cari info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung di mana ya?,0.7795116305351257
-207,berapa biaya didik uin sunan gunung djati bandung,Di mana tempatnya buat dapetin info Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.7191022634506226
-208,mohon informasi kena biaya didik universitas islam negeri sunan gunung djati bandung,Mohon informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diperoleh di mana?,0.7705851793289185
-209,ingin tahu berapa biaya perlu tempuh didik uin sunan gunung djati bandung,Saya ingin mengetahui lokasi atau sumber informasi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,0.7164960503578186
-210,anda beri rincian biaya kuliah uin sunan gunung djati bandung,Bisakah Anda memberikan detail mengenai tempat saya bisa mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.7517682909965515
-211,informasi estimasi biaya didik uin sunan gunung djati bandung,Dimana saya dapat mengakses informasi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.6596761345863342
-212,saya detail kena biaya didik uin sunan gunung djati bandung,Mohon penjelasan mengenai sumber informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,0.6495727896690369
-213,butuh informasi lengkap biaya kuliah uin sunan gunung djati bandung,Apakah ada panduan mengenai lokasi untuk memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.7439097166061401
-214,sampai saya besar biaya harus bayar kuliah uin sunan gunung djati bandung,Saya memerlukan informasi mengenai prosedur dan lokasi untuk mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,0.7265399694442749
-215,mohon informasi kait biaya didik laku uin sunan gunung djati bandung,Tolong sampaikan di mana saya bisa mendapatkan informasi resmi terkait Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung.,0.7148724794387817
-216,ingin tahu berapa biaya didik uin sunan gunung djati bandung semester,Adakah portal atau tempat khusus untuk memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.6204803586006165
-217,tolong jelas berapa biaya butuh kuliah uin sunan gunung djati bandung,Saya memerlukan informasi detail mengenai di mana saya dapat mengetahui tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung,0.6952333450317383
-218,berapa sih biaya kuliah uin sunan gunung djati bandung,Berapa biaya Pendidikan di UIN Sunan Gunung Djati Bandung?,0.9602404832839966
-219,yang tahu berapa biaya didik uin sunan gunung djati bandung,Mohon informasi mengenai biaya pendidikan di Universitas Islam Negeri Sunan Gunung Djati Bandung.,0.8425256013870239
-220,mau nanya biaya kuliah uin sunan gunung djati bandung berapa,Saya ingin mengetahui berapa biaya yang diperlukan untuk menempuh pendidikan di UIN Sunan Gunung Djati Bandung.,0.9013347029685974
-221,biaya kuliah uin sunan gunung djati bandung berapa sih,Dapatkah Anda memberikan rincian biaya kuliah di UIN Sunan Gunung Djati Bandung?,0.9078026413917542
-222,kasih tahu berapa biaya didik uin sunan gunung djati bandung,Tolong informasikan estimasi biaya pendidikan di UIN Sunan Gunung Djati Bandung.,0.9281545281410217
-223,gimana sih biaya kuliah uin sunan gunung djati bandung,Bisakah saya memperoleh detail mengenai biaya pendidikan di UIN Sunan Gunung Djati Bandung?,0.8756883144378662
-224,yang kasih info soal biaya didik uin sunan gunung djati bandung,Saya membutuhkan informasi lengkap tentang biaya kuliah di UIN Sunan Gunung Djati Bandung.,0.8655129671096802
-225,berapa biaya harus bayar buat kuliah uin sunan gunung djati bandung,Tolong sampaikan kepada saya besaran biaya yang harus dibayarkan untuk kuliah di UIN Sunan Gunung Djati Bandung.,0.8971657752990723
-226,mau tanya biaya didik uin sunan gunung djati bandung gede,Mohon informasi terkait biaya pendidikan yang berlaku di UIN Sunan Gunung Djati Bandung.,0.8854644894599915
-227,jelasin berapa biaya kuliah uin sunan gunung djati bandung,Saya ingin mengetahui berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung untuk semester ini.,0.8570573329925537
-228,dapat program beasiswa uin sunan gunung djati bandung,Bisa tolong dijelaskan berapa biaya yang dibutuhkan untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.7961664795875549
-229,mohon informasi di uin sunan gunung djati bandung tawar beasiswa,Berapa sih biaya kuliah di UIN Sunan Gunung Djati Bandung?,0.7952700853347778
-230,ingin tahu uin sunan gunung djati bandung milik beasiswa sedia,Ada yang tahu berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung?,0.8151760101318359
-231,anda memberitahu apakah uin sunan gunung djati bandung beasiswa,"Mau nanya, biaya kuliah di UIN Sunan Gunung Djati Bandung berapa ya?",0.8254433870315552
-232,anda beri informasi ada beasiswa uin sunan gunung djati bandung,Biaya kuliah di UIN Sunan Gunung Djati Bandung berapaan sih?,0.7915639877319336
-233,mohon jelas ada program beasiswa uin sunan gunung djati bandung,"Bisa kasih tahu nggak, berapa biaya pendidikan di UIN Sunan Gunung Djati Bandung?",0.7930649518966675
-234,ingin tanya di uin sunan gunung djati bandung sempat dapat beasiswa,Gimana sih biaya kuliah di UIN Sunan Gunung Djati Bandung?,0.8493695259094238
-235,mohon konfirmasi uin sunan gunung djati bandung milik informasi kait beasiswa,Ada yang bisa kasih info soal biaya pendidikan di UIN Sunan Gunung Djati Bandung?,0.8050675392150879
-236,informasi di uin sunan gunung djati bandung sedia beasiswa,Berapa biaya yang harus dibayar buat kuliah di UIN Sunan Gunung Djati Bandung?,0.7243421673774719
-237,mohon klarifikasi ada beasiswa tawar uin sunan gunung djati bandung,"Mau tanya, biaya pendidikan di UIN Sunan Gunung Djati Bandung gede nggak?",0.7927793264389038
-238,beasiswa uin sunan gunung djati bandung,Bisa jelasin nggak berapa biaya kuliah di UIN Sunan Gunung Djati Bandung?,0.7664389610290527
-239,beasiswa di uin sunan gunung djati bandung,Apakah terdapat program beasiswa di UIN Sunan Gunung Djati Bandung?,0.870939314365387
-240,uin sunan gunung djati bandung beasiswa,Mohon informasi apakah di UIN Sunan Gunung Djati Bandung ada penawaran beasiswa.,0.8274713754653931
-241,beasiswa uin sunan gunung djati bandung nggak,Saya ingin mengetahui apakah UIN Sunan Gunung Djati Bandung memiliki beasiswa yang tersedia.,0.8453603982925415
-242,uin sunan gunung djati bandung punya beasiswa,Bisakah Anda memberitahu saya apakah di UIN Sunan Gunung Djati Bandung terdapat beasiswa?,0.8454742431640625
-243,info soal beasiswa uin sunan gunung djati bandung,Dapatkah Anda memberikan informasi tentang adanya beasiswa di UIN Sunan Gunung Djati Bandung?,0.8645467758178711
-244,beasiswa uin sunan gunung djati bandung info lengkap,Mohon penjelasan apakah ada program beasiswa di UIN Sunan Gunung Djati Bandung.,0.8156465291976929
-245,minta info dong uin sunan gunung djati bandung beasiswa,Saya ingin menanyakan apakah di UIN Sunan Gunung Djati Bandung ada kesempatan untuk mendapatkan beasiswa.,0.8628295660018921
-246,beasiswa uin sunan gunung djati bandung gak sih,Mohon konfirmasi apakah UIN Sunan Gunung Djati Bandung memiliki informasi terkait beasiswa.,0.7793876528739929
+7,apa program studi ada uin sunan gunung djati bandung,Apa saja program studi yang ada di UIN Sunan Gunung Djati Bandung?,0.953515887260437
+8,program studi apa sedia uin sunan gunung djati bandung,Program studi apa yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9591346979141235
+9,uin sunan gunung djati bandung program studi apa,"Di UIN Sunan Gunung Djati Bandung, ada program studi apa saja?",0.9557539224624634
+10,program studi apa tawar uin sunan gunung djati bandung,Program studi apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.903478741645813
+11,uin sunan gunung djati bandung program studi apa bisa pilih,"Di UIN Sunan Gunung Djati Bandung, program studi apa yang bisa dipilih?",0.9649779200553894
+12,apa nama nama program studi uin sunan gunung djati bandung,Apa nama-nama program studi di UIN Sunan Gunung Djati Bandung?,0.9672114253044128
+13,uin sunan gunung djati bandung tawar program studi apa,UIN Sunan Gunung Djati Bandung menawarkan program studi apa saja?,0.9581525325775146
+14,program studi apa bisa temu uin sunan gunung djati bandung,Program studi apa yang bisa ditemukan di UIN Sunan Gunung Djati Bandung?,0.9646241664886475
+15,apa jurus ada uin sunan gunung djati bandung,Apa saja jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8447990417480469
+16,uin sunan gunung djati bandung jurus apa yang sedia,"Di UIN Sunan Gunung Djati Bandung, jurusan apa saja yang tersedia?",0.7595353126525879
+17,program studi apa ada uin sunan gunung djati bandung ini,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung saat ini?,0.9667420387268066
+18,uin sunan gunung djati bandung apa program studi tawar,"Di UIN Sunan Gunung Djati Bandung, apa saja program studi yang ditawarkan?",0.87209153175354
+19,program studi apa masuk daftar uin sunan gunung djati bandung,Program studi apa yang termasuk dalam daftar di UIN Sunan Gunung Djati Bandung?,0.9499136209487915
+20,uin sunan gunung djati bandung milik program studi apa,UIN Sunan Gunung Djati Bandung memiliki program studi apa saja?,0.9578707218170166
+21,program studi apa ada uin sunan gunung djati bandung tahun,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung untuk tahun ini?,0.9561872482299805
+22,apa pilih program studi uin sunan gunung djati bandung,Apa saja pilihan program studi di UIN Sunan Gunung Djati Bandung?,0.9490376710891724
+23,uin sunan gunung djati bandung program studi bagaimana,"Di UIN Sunan Gunung Djati Bandung, ada program studi yang bagaimana?",0.9472879767417908
+24,program studi apa bisa pilih mahasiswa uin sunan gunung djati bandung,Program studi apa yang bisa dipilih oleh mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9679431319236755
+25,uin sunan gunung djati bandung tawar jurus apa,UIN Sunan Gunung Djati Bandung menawarkan jurusan apa saja?,0.8008939027786255
+26,uin sunan gunung djati bandung apa opsi program studi ada,"Di UIN Sunan Gunung Djati Bandung, apa saja opsi program studi yang ada?",0.9615062475204468
+27,program studi apa saat tawar uin sunan gunung djati bandung,Program studi apa yang saat ini ditawarkan di UIN Sunan Gunung Djati Bandung?,0.8958799839019775
+28,apa program studi bisa ambil uin sunan gunung djati bandung,Apa saja program studi yang bisa diambil di UIN Sunan Gunung Djati Bandung?,0.9552798271179199
+29,uin sunan gunung djati bandung program studi apa sedia mahasiswa,"Di UIN Sunan Gunung Djati Bandung, program studi apa yang tersedia untuk mahasiswa?",0.9520107507705688
+30,program studi apa ada uin sunan gunung djati bandung tahun akademik,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung pada tahun akademik ini?,0.9729333519935608
+31,uin sunan gunung djati bandung apa jenis program studi ada,"Di UIN Sunan Gunung Djati Bandung, apa saja jenis program studi yang ada?",0.9653302431106567
+32,apa program studi tawar uin sunan gunung djati bandung,Apa saja program studi yang ditawarkan di UIN Sunan Gunung Djati Bandung?,0.8918609619140625
+33,program studi apa yang sedia uin sunan gunung djati bandung,Program studi apa saja yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9461753368377686
+34,program studi apa tawar uin sunan gunung djati bandung,Program studi apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.903478741645813
+35,program studi apa bisa temu uin sunan gunung djati bandung,Program studi apa yang bisa ditemukan di UIN Sunan Gunung Djati Bandung?,0.9646241664886475
+36,program studi apa bisa ambil uin sunan gunung djati bandung,Program studi apa yang bisa diambil di UIN Sunan Gunung Djati Bandung?,0.9677581191062927
+37,program studi apa ada uin sunan gunung djati bandung ini,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung saat ini?,0.9667420387268066
+38,program studi apa sedia uin sunan gunung djati bandung,Program studi apa yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9591346979141235
+39,program studi apa sudah di uin sunan gunung djati bandung,Program studi apa yang sudah ada di UIN Sunan Gunung Djati Bandung?,0.9779108762741089
+40,program studi apa ada uin sunan gunung djati bandung tahun,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung pada tahun ini?,0.966316282749176
+41,program studi apa sudah tawar uin sunan gunung djati bandung,Program studi apa yang sudah ditawarkan di UIN Sunan Gunung Djati Bandung?,0.950408935546875
+42,program studi apa tawar uin sunan gunung djati bandung tahun,Program studi apa yang ditawarkan di UIN Sunan Gunung Djati Bandung untuk tahun ini?,0.8944798707962036
+43,program studi apa yang sedia uin sunan gunung djati bandung,Program studi apa saja yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9461753368377686
+44,program studi apa sudah pilih uin sunan gunung djati bandung,Program studi apa yang sudah dipilih di UIN Sunan Gunung Djati Bandung?,0.9711626768112183
+45,program studi apa sedang tawar uin sunan gunung djati bandung,Program studi apa yang sedang ditawarkan di UIN Sunan Gunung Djati Bandung?,0.9387507438659668
+46,program studi apa ada uin sunan gunung djati bandung mahasiswa baru,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung untuk mahasiswa baru?,0.9635196924209595
+47,program studi apa yang sedang tawar uin sunan gunung djati bandung,Program studi apa saja yang sedang ditawarkan di UIN Sunan Gunung Djati Bandung?,0.9152704477310181
+48,program studi apa ada uin sunan gunung djati bandung semester,Program studi apa yang ada di UIN Sunan Gunung Djati Bandung pada semester ini?,0.9657273292541504
+49,program studi apa bisa ambil mahasiswa uin sunan gunung djati bandung,Program studi apa yang bisa diambil oleh mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9669062495231628
+50,program studi apa sudah sedia uin sunan gunung djati bandung,Program studi apa yang sudah disediakan di UIN Sunan Gunung Djati Bandung?,0.9607670903205872
+51,program studi apa sedia pilih uin sunan gunung djati bandung,Program studi apa yang tersedia untuk dipilih di UIN Sunan Gunung Djati Bandung?,0.95735764503479
+52,program studi apa tawar mahasiswa uin sunan gunung djati bandung,Program studi apa yang ditawarkan kepada mahasiswa di UIN Sunan Gunung Djati Bandung?,0.8982420563697815
+53,program studi apa sudah di uin sunan gunung djati bandung tahun akademik,Program studi apa yang sudah ada di UIN Sunan Gunung Djati Bandung pada tahun akademik ini?,0.9779115915298462
+54,program studi apa saat ada uin sunan gunung djati bandung,Program studi apa yang saat ini ada di UIN Sunan Gunung Djati Bandung?,0.9632482528686523
+55,program studi apa yang sedang sedia uin sunan gunung djati bandung,Program studi apa saja yang sedang disediakan di UIN Sunan Gunung Djati Bandung?,0.9487234354019165
+56,program studi apa sudah tawar uin sunan gunung djati bandung tahun,Program studi apa yang sudah ditawarkan di UIN Sunan Gunung Djati Bandung pada tahun ini?,0.9481743574142456
+57,apa jalur masuk uin sunan gunung djati bandung program sarjana s1,Apa saja jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9658820033073425
+58,jalur masuk apa yang sedia uin sunan gunung djati bandung program sarjana s1,Jalur masuk apa saja yang tersedia di UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9634168148040771
+59,apa jalur masuk uin sunan gunung djati bandung program s1,Apa saja jalur masuk di UIN Sunan Gunung Djati Bandung untuk Program S1?,0.9636418223381042
+60,bagaimana cara masuk program sarjana uin sunan gunung djati bandung,Bagaimana cara masuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9879558682441711
+61,opsi apa yang untuk masuk program s1 uin sunan gunung djati bandung,Opsi apa saja yang ada untuk masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9726191759109497
+62,apa metode terima ada uin sunan gunung djati bandung program sarjana,Apa metode penerimaan yang ada di UIN Sunan Gunung Djati Bandung untuk Program Sarjana?,0.9539788961410522
+63,program sarjana uin sunan gunung djati bandung masuk lalu jalur apa,Program Sarjana di UIN Sunan Gunung Djati Bandung bisa dimasuki melalui jalur apa saja?,0.9341058731079102
+64,apa pilih jalur masuk program sarjana uin sunan gunung djati bandung,Apa pilihan jalur masuk untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9695562124252319
+65,program s1 uin sunan gunung djati bandung terima mahasiswa lalu jalur apa,Program S1 di UIN Sunan Gunung Djati Bandung menerima mahasiswa melalui jalur apa saja?,0.9583940505981445
+66,uin sunan gunung djati bandung tawar jalur masuk apa untuk program sarjana,UIN Sunan Gunung Djati Bandung menawarkan jalur masuk apa saja untuk Program Sarjana?,0.9676210284233093
+67,apa cara masuk program s1 uin sunan gunung djati bandung,Apa saja cara untuk masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9573297500610352
+68,program sarjana uin sunan gunung djati bandung jalur masuk apa,"Untuk Program Sarjana di UIN Sunan Gunung Djati Bandung, ada jalur masuk apa saja?",0.9541062116622925
+69,bagaimana proses terima mahasiswa baru program s1 uin sunan gunung djati bandung,Bagaimana proses penerimaan mahasiswa baru untuk Program S1 di UIN Sunan Gunung Djati Bandung?,0.974177896976471
+70,jalur apa yang ambil masuk program sarjana uin sunan gunung djati bandung,Jalur apa saja yang bisa diambil untuk masuk ke Program Sarjana UIN Sunan Gunung Djati Bandung?,0.9670292139053345
+71,uin sunan gunung djati bandung sedia jalur masuk apa untuk program s1,UIN Sunan Gunung Djati Bandung menyediakan jalur masuk apa saja untuk Program S1?,0.9674619436264038
+72,program s1 uin sunan gunung djati bandung lalu jalur apa,Program S1 di UIN Sunan Gunung Djati Bandung melalui jalur apa saja?,0.966526210308075
+73,bagaimana cara daftar program sarjana uin sunan gunung djati bandung,Bagaimana cara pendaftaran untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9476506114006042
+74,uin sunan gunung djati bandung milik jalur masuk apa untuk program sarjana,UIN Sunan Gunung Djati Bandung memiliki jalur masuk apa saja untuk Program Sarjana?,0.9715018272399902
+75,apa jalur terima mahasiswa uin sunan gunung djati bandung program s1,Apa saja jalur penerimaan mahasiswa di UIN Sunan Gunung Djati Bandung untuk Program S1?,0.9481521844863892
+76,program sarjana uin sunan gunung djati bandung masuk cara apa,Program Sarjana di UIN Sunan Gunung Djati Bandung bisa dimasuki dengan cara apa saja?,0.9292364120483398
+77,uin sunan gunung djati bandung tawar jalur apa untuk program sarjana,UIN Sunan Gunung Djati Bandung menawarkan jalur apa saja untuk Program Sarjana?,0.9640560150146484
+78,apa jalur masuk ada program s1 uin sunan gunung djati bandung,Apa saja jalur masuk yang ada untuk Program S1 di UIN Sunan Gunung Djati Bandung?,0.9583610892295837
+79,jalur apa yang ikut masuk program sarjana uin sunan gunung djati bandung,Jalur apa saja yang dapat diikuti untuk masuk ke Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9608949422836304
+80,bagaimana cara masuk program s1 uin sunan gunung djati bandung,Bagaimana cara masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9786189794540405
+81,jalur masuk apa tawar uin sunan gunung djati bandung program sarjana,Jalur masuk apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana?,0.916759729385376
+82,apa opsi masuk sedia program sarjana uin sunan gunung djati bandung,Apa saja opsi masuk yang tersedia untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9510602951049805
+83,jalur masuk apa yang sedia uin sunan gunung djati bandung program sarjana s1,Jalur masuk apa saja yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana (S1)?,0.9638957977294922
+84,apa jalur sedia masuk program s1 uin sunan gunung djati bandung,Apa saja jalur yang disediakan untuk masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9543068408966064
+85,bagaimana program sarjana uin sunan gunung djati bandung masuk,Bagaimana Program Sarjana di UIN Sunan Gunung Djati Bandung bisa dimasuki?,0.9626170992851257
+86,opsi masuk apa yang sedia program s1 uin sunan gunung djati bandung,Opsi masuk apa saja yang disediakan untuk Program S1 di UIN Sunan Gunung Djati Bandung?,0.966134786605835
+87,apa metode terima guna program sarjana uin sunan gunung djati bandung,Apa metode penerimaan yang digunakan untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9414304494857788
+88,jalur apa yang guna masuk program s1 uin sunan gunung djati bandung,Jalur apa saja yang bisa digunakan untuk masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9671494364738464
+89,apa pilih jalur masuk sedia program sarjana uin sunan gunung djati bandung,Apa pilihan jalur masuk yang disediakan untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9600228071212769
+90,lalu jalur apa program s1 uin sunan gunung djati bandung masuk,Melalui jalur apa saja Program S1 di UIN Sunan Gunung Djati Bandung bisa dimasuki?,0.9417596459388733
+91,jalur masuk apa yang tawar uin sunan gunung djati bandung program sarjana,Jalur masuk apa saja yang ditawarkan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana?,0.9334178566932678
+92,bagaimana cara masuk program s1 uin sunan gunung djati bandung,Bagaimana cara untuk masuk ke Program S1 di UIN Sunan Gunung Djati Bandung?,0.9724068641662598
+93,apa jalur masuk sedia program sarjana uin sunan gunung djati bandung,Apa saja jalur masuk yang tersedia untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9492323398590088
+94,bagaimana proses terima mahasiswa baru program s1 uin sunan gunung djati bandung laku,Bagaimana proses penerimaan mahasiswa baru untuk Program S1 di UIN Sunan Gunung Djati Bandung dilakukan?,0.9559791088104248
+95,jalur apa yang ambil masuk program sarjana uin sunan gunung djati bandung,Jalur apa saja yang dapat diambil untuk masuk ke Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.962303876876831
+96,jalur masuk apa yang sedia uin sunan gunung djati bandung program s1,Jalur masuk apa saja yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program S1?,0.9610530138015747
+97,lalu jalur apa program s1 uin sunan gunung djati bandung masuk,Melalui jalur apa saja Program S1 di UIN Sunan Gunung Djati Bandung bisa dimasuki?,0.9417596459388733
+98,bagaimana cara daftar program sarjana uin sunan gunung djati bandung laku,Bagaimana cara pendaftaran untuk Program Sarjana di UIN Sunan Gunung Djati Bandung dilakukan?,0.9251303672790527
+99,apa jalur masuk sedia uin sunan gunung djati bandung program sarjana,Apa saja jalur masuk yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana?,0.9478736519813538
+100,jalur terima apa yang sedia uin sunan gunung djati bandung program s1,Jalur penerimaan apa saja yang disediakan oleh UIN Sunan Gunung Djati Bandung untuk Program S1?,0.9240968823432922
+101,bagaimana program sarjana uin sunan gunung djati bandung masuk,Bagaimana Program Sarjana di UIN Sunan Gunung Djati Bandung bisa dimasuki?,0.9626170992851257
+102,jalur apa yang tawar program sarjana uin sunan gunung djati bandung,Jalur apa saja yang ditawarkan untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9492766261100769
+103,jalur masuk apa yang sedia program s1 uin sunan gunung djati bandung,Jalur masuk apa saja yang tersedia untuk Program S1 di UIN Sunan Gunung Djati Bandung?,0.9599928855895996
+104,jalur apa yang ikut masuk program sarjana uin sunan gunung djati bandung,Jalur apa saja yang dapat diikuti untuk masuk ke Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9608949422836304
+105,bagaimana cara masuk program s1 uin sunan gunung djati bandung laku,Bagaimana cara masuk ke Program S1 di UIN Sunan Gunung Djati Bandung dilakukan?,0.959611177444458
+106,jalur masuk apa tawar uin sunan gunung djati bandung program sarjana,Jalur masuk apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung untuk Program Sarjana?,0.916759729385376
+107,opsi masuk apa yang sedia program sarjana uin sunan gunung djati bandung,Opsi masuk apa saja yang tersedia untuk Program Sarjana di UIN Sunan Gunung Djati Bandung?,0.9640605449676514
+108,semua jurus sedia uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,Apakah semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi SNBP?,0.8443403244018555
+109,jurus uin sunan gunung djati bandung pilih lewat jalur snbp,Apakah jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur SNBP?,0.8731480836868286
+110,semua program studi uin sunan gunung djati bandung pilih lalu snbp,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih melalui SNBP?,0.8959484100341797
+111,jalur seleksi snbp mungkin semua jurus uin sunan gunung djati bandung pilih,Apakah jalur seleksi SNBP memungkinkan semua jurusan di UIN Sunan Gunung Djati Bandung dipilih?,0.9252024292945862
+112,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur SNBP?,0.866061806678772
+113,jalur snbp mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SNBP memungkinkan dipilihnya semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9100837111473083
+114,jalur seleksi snbp mungkin semua jurus uin sunan gunung djati bandung pilih,Apakah jalur seleksi SNBP memungkinkan semua jurusan di UIN Sunan Gunung Djati Bandung dipilih?,0.9252024292945862
+115,semua jurus uin sunan gunung djati bandung pilih lewat snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SNBP?,0.8608309030532837
+116,jalur snbp mungkin semua jurus uin sunan gunung djati bandung pilih,Apakah jalur SNBP memungkinkan semua jurusan di UIN Sunan Gunung Djati Bandung dipilih?,0.9077674150466919
+117,pilih semua jurus uin sunan gunung djati bandung mungkin lewat jalur snbp,Apakah pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung dimungkinkan lewat jalur SNBP?,0.8545327186584473
+118,semua jurus uin sunan gunung djati bandung pilih lewat snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih lewat SNBP?,0.8560848832130432
+119,semua jurus uin sunan gunung djati bandung pilih lewat jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih lewat jalur SNBP?,0.8860931992530823
+120,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SNBP?,0.8575993776321411
+121,semua jurus uin sunan gunung djati bandung pilih lalu seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui seleksi SNBP?,0.8635839223861694
+122,semua jurus uin sunan gunung djati bandung pilih lalu seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui seleksi SNBP?,0.8602266311645508
+123,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur seleksi SNBP?,0.870983362197876
+124,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur seleksi SNBP?,0.8868923187255859
+125,semua jurus uin sunan gunung djati bandung pilih lewat seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih lewat seleksi SNBP?,0.8734040260314941
+126,semua jurus uin sunan gunung djati bandung pilih lewat snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat SNBP?,0.8608309030532837
+127,semua jurus uin sunan gunung djati bandung pilih lewat snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih lewat SNBP?,0.8560848832130432
+128,jalur snbp mungkin semua jurus uin sunan gunung djati bandung pilih,Apakah jalur SNBP memungkinkan semua jurusan di UIN Sunan Gunung Djati Bandung dipilih?,0.9077674150466919
+129,semua jurus uin sunan gunung djati bandung pilih lalu snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui SNBP?,0.8220829963684082
+130,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur SNBP?,0.866061806678772
+131,semua jurus uin sunan gunung djati bandung pilih lewat jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur SNBP?,0.882196307182312
+132,jalur seleksi snbp mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBP memungkinkan dipilihnya semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9226200580596924
+133,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur seleksi SNBP?,0.870983362197876
+134,pilih semua jurus sedia uin sunan gunung djati bandung lewat jalur seleksi snbp,Bisa memilih semua jurusan yang tersedia di UIN Sunan Gunung Djati Bandung lewat jalur seleksi SNBP?,0.8712185621261597
+135,jalur snbp mungkin pilih semua program studi uin sunan gunung djati bandung,Apakah jalur SNBP memungkinkan pemilihan semua program studi di UIN Sunan Gunung Djati Bandung?,0.9312058687210083
+136,lalu snbp pilih semua jurus uin sunan gunung djati bandung,Apakah melalui SNBP bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8304829597473145
+137,kita pilih semua jurus uin sunan gunung djati bandung lewat jalur snbp,Bisakah kita memilih semua jurusan di UIN Sunan Gunung Djati Bandung lewat jalur SNBP?,0.8967727422714233
+138,snbp buka pilih semua jurus uin sunan gunung djati bandung,Apakah SNBP membuka pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8246703147888184
+139,pilih semua jurus uin sunan gunung djati bandung lalu snbp,Bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui SNBP?,0.8326582908630371
+140,pilih jurus uin sunan gunung djati bandung laku lewat jalur snbp,Apakah pemilihan jurusan di UIN Sunan Gunung Djati Bandung bisa dilakukan lewat jalur SNBP?,0.8366329669952393
+141,lalu seleksi snbp semua jurus uin sunan gunung djati bandung pilih,Apakah melalui seleksi SNBP semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih?,0.8606307506561279
+142,snbp mungkin pilih jurus apa uin sunan gunung djati bandung,Apakah SNBP memungkinkan pemilihan jurusan apapun di UIN Sunan Gunung Djati Bandung?,0.8766277432441711
+143,jalur snbp untuk pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur SNBP digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8787298798561096
+144,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbp,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur SNBP?,0.8735177516937256
+145,snbp mungkin pilih jurus uin sunan gunung djati bandung batas,Apakah SNBP memungkinkan pemilihan jurusan di UIN Sunan Gunung Djati Bandung tanpa batasan?,0.8457995653152466
+146,kita daftar semua jurus uin sunan gunung djati bandung lalu jalur snbp,Bisakah kita mendaftar ke semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur SNBP?,0.8105485439300537
+147,semua jurus uin sunan gunung djati bandung akses lalu snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa diakses melalui SNBP?,0.7786282300949097
+148,jalur snbp untuk pilih tiap jurus uin sunan gunung djati bandung,Dapatkah jalur SNBP digunakan untuk memilih setiap jurusan di UIN Sunan Gunung Djati Bandung?,0.8801583647727966
+149,seleksi snbp mungkin akses semua jurus uin sunan gunung djati bandung,Apakah seleksi SNBP memungkinkan akses ke semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8994226455688477
+150,pilih jurus apa uin sunan gunung djati bandung lewat jalur snbp,Bisa memilih jurusan apapun di UIN Sunan Gunung Djati Bandung lewat jalur SNBP?,0.8968993425369263
+151,pilih semua jurus uin sunan gunung djati bandung mungkin lewat snbp,Apakah pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung dimungkinkan lewat SNBP?,0.8180381059646606
+152,lalu snbp semua jurus uin sunan gunung djati bandung pilih,Bisakah melalui SNBP semua jurusan di UIN Sunan Gunung Djati Bandung dipilih?,0.8060671091079712
+153,snbp untuk pilih seluruh jurus uin sunan gunung djati bandung,Dapatkah SNBP digunakan untuk memilih seluruh jurusan di UIN Sunan Gunung Djati Bandung?,0.8495197296142578
+154,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbp,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SNBP?,0.8543452620506287
+155,jalur snbp mungkin pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur SNBP memungkinkan kita memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.879135251045227
+156,snbp beri akses semua jurus uin sunan gunung djati bandung,Apakah SNBP memberikan akses ke semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8711292743682861
+157,semua jurus uin sunan gunung djati bandung pilih lewat jalur snbp,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih lewat jalur SNBP?,0.8986784219741821
+158,semua jurus uin sunan gunung djati bandung tawar lalu jalur seleksi snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung ditawarkan melalui jalur seleksi SNBT?,0.8251219391822815
+159,jalur seleksi snbt cakup semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SNBT mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8453525900840759
+160,tiap jurus uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah setiap jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SNBT?,0.8241199254989624
+161,snbt sedia pilih semua program studi uin sunan gunung djati bandung,Apakah SNBT menyediakan pilihan untuk semua program studi di UIN Sunan Gunung Djati Bandung?,0.891663134098053
+162,jalur snbt mungkin daftar semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT memungkinkan pendaftaran di semua jurusan UIN Sunan Gunung Djati Bandung?,0.8741328716278076
+163,snbt buka sempat semua jurus uin sunan gunung djati bandung,Apakah SNBT membuka kesempatan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7440924644470215
+164,jalur snbt cakup tiap program studi uin sunan gunung djati bandung,Apakah jalur SNBT mencakup setiap program studi di UIN Sunan Gunung Djati Bandung?,0.9066330194473267
+165,jalur snbt cakup semua program studi uin sunan gunung djati bandung,Apakah jalur SNBT mencakup semua program studi di UIN Sunan Gunung Djati Bandung?,0.9012781381607056
+166,jalur snbt tawar semua program studi uin sunan gunung djati bandung,Apakah jalur SNBT menawarkan semua program studi di UIN Sunan Gunung Djati Bandung?,0.9037760496139526
+167,semua jurus uin sunan gunung djati bandung sedia lalu jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung tersedia melalui jalur SNBT?,0.8212623000144958
+168,snbt cakup seluruh jurus uin sunan gunung djati bandung,Apakah SNBT mencakup seluruh jurusan di UIN Sunan Gunung Djati Bandung?,0.7308652400970459
+169,seluruh jurus uin sunan gunung djati bandung sedia jalur snbt,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung tersedia di jalur SNBT?,0.8429509997367859
+170,tiap jurus uin sunan gunung djati bandung pilih lalu jalur seleksi snbt,Apakah setiap jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi SNBT?,0.8478773832321167
+171,jalur snbt mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT memungkinkan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9024003744125366
+172,semua program studi uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SNBT?,0.9049614071846008
+173,jalur snbt cakup pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT mencakup pilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8378758430480957
+174,semua jurus uin sunan gunung djati bandung masuk pilih jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung termasuk dalam pilihan jalur SNBT?,0.8696353435516357
+175,snbt mungkin daftar tiap jurus uin sunan gunung djati bandung,Apakah SNBT memungkinkan pendaftaran untuk setiap jurusan di UIN Sunan Gunung Djati Bandung?,0.79714035987854
+176,jalur snbt buka akses semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT membuka akses ke semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8864713907241821
+177,jalur snbt cakup seluruh program studi uin sunan gunung djati bandung,Apakah jalur SNBT mencakup seluruh program studi di UIN Sunan Gunung Djati Bandung?,0.8993305563926697
+178,pilih jurus uin sunan gunung djati bandung lalu jalur snbt sedia,Apakah pilihan jurusan di UIN Sunan Gunung Djati Bandung melalui jalur SNBT tersedia?,0.8270269632339478
+179,semua program studi uin sunan gunung djati bandung tawar lalu jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung ditawarkan melalui jalur SNBT?,0.8750698566436768
+180,jalur snbt cakup seluruh pilih jurus uin sunan gunung djati bandung,Apakah jalur SNBT mencakup seluruh pilihan jurusan di UIN Sunan Gunung Djati Bandung?,0.822426974773407
+181,snbt sedia pilih semua jurus uin sunan gunung djati bandung,Apakah SNBT menyediakan pilihan untuk semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8069143295288086
+182,jalur snbt tawar akses semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT menawarkan akses ke semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8422050476074219
+183,semua jurus uin sunan gunung djati bandung tawar lalu jalur seleksi snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung ditawarkan melalui jalur seleksi SNBT?,0.8251219391822815
+184,seluruh jurus uin sunan gunung djati bandung sedia lalu jalur snbt,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung tersedia melalui jalur SNBT?,0.815488874912262
+185,jalur snbt cakup tiap jurus uin sunan gunung djati bandung,Apakah jalur SNBT mencakup setiap jurusan di UIN Sunan Gunung Djati Bandung?,0.7932780981063843
+186,tiap program studi uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah setiap program studi di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SNBT?,0.9015759825706482
+187,semua program studi uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SNBT?,0.904961347579956
+188,semua program studi uin sunan gunung djati bandung tawar lalu jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung ditawarkan melalui jalur SNBT?,0.875069797039032
+189,seluruh program studi uin sunan gunung djati bandung sedia lalu jalur snbt,Apakah seluruh program studi di UIN Sunan Gunung Djati Bandung tersedia melalui jalur SNBT?,0.897740364074707
+190,jalur snbt cakup semua program studi uin sunan gunung djati bandung,Apakah jalur SNBT mencakup semua program studi di UIN Sunan Gunung Djati Bandung?,0.9012781381607056
+191,jalur snbt cakup seluruh jurus uin sunan gunung djati bandung,Apakah jalur SNBT mencakup seluruh jurusan di UIN Sunan Gunung Djati Bandung?,0.7849702835083008
+192,jalur snbt cakup semua jurus uin sunan gunung djati bandung,Apakah jalur SNBT mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8029182553291321
+193,jalur snbt cakup seluruh program studi uin sunan gunung djati bandung,Apakah jalur SNBT mencakup seluruh program studi di UIN Sunan Gunung Djati Bandung?,0.8993305563926697
+194,jalur snbt tawar seluruh program studi uin sunan gunung djati bandung,Apakah jalur SNBT menawarkan seluruh program studi di UIN Sunan Gunung Djati Bandung?,0.9029982089996338
+195,seluruh program studi uin sunan gunung djati bandung sedia lalu jalur snbt,Apakah seluruh program studi di UIN Sunan Gunung Djati Bandung tersedia melalui jalur SNBT?,0.897740364074707
+196,jalur snbt tawar semua program studi uin sunan gunung djati bandung,Apakah jalur SNBT menawarkan semua program studi di UIN Sunan Gunung Djati Bandung?,0.9037760496139526
+197,jalur snbt mungkin pilih seluruh jurus uin sunan gunung djati bandung,Apakah jalur SNBT memungkinkan untuk memilih seluruh jurusan di UIN Sunan Gunung Djati Bandung?,0.8983983993530273
+198,semua program studi uin sunan gunung djati bandung masuk jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung termasuk dalam jalur SNBT?,0.9054846167564392
+199,semua jurus uin sunan gunung djati bandung sedia jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung tersedia dalam jalur SNBT?,0.8475112915039062
+200,semua jurus uin sunan gunung djati bandung masuk pilih jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung termasuk dalam pilihan jalur SNBT?,0.8696353435516357
+201,semua jurus uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SNBT?,0.8561422824859619
+202,seluruh jurus uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SNBT?,0.8462702035903931
+203,seluruh jurus uin sunan gunung djati bandung masuk pilih jalur snbt,Apakah seluruh jurusan di UIN Sunan Gunung Djati Bandung termasuk dalam pilihan jalur SNBT?,0.8612176179885864
+204,semua program studi uin sunan gunung djati bandung pilih lalu jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SNBT?,0.9056693911552429
+205,semua jurus uin sunan gunung djati bandung tawar jalur snbt,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung ditawarkan dalam jalur SNBT?,0.8256007432937622
+206,semua program studi uin sunan gunung djati bandung sedia jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung tersedia dalam jalur SNBT?,0.9074697494506836
+207,semua program studi uin sunan gunung djati bandung pilih jalur snbt,Apakah semua program studi di UIN Sunan Gunung Djati Bandung dapat dipilih dalam jalur SNBT?,0.901435911655426
+208,kita pilih semua jurus uin sunan gunung djati bandung lalu jalur seleksi span ptkin,Apakah kita bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi SPAN-PTKIN?,0.856747031211853
+209,jalur span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN memungkinkan memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9049218893051147
+210,jalur span ptkin guna pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN dapat digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8574349284172058
+211,semua jurus uin sunan gunung djati bandung pilih lalu jalur span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur SPAN-PTKIN?,0.8389266729354858
+212,seleksi span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah seleksi SPAN-PTKIN memungkinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8934760689735413
+213,kita daftar semua jurus uin sunan gunung djati bandung lalu jalur span ptkin,Apakah kita bisa mendaftar semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur SPAN-PTKIN?,0.7830370664596558
+214,semua jurus uin sunan gunung djati bandung sedia lalu jalur seleksi span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung tersedia melalui jalur seleksi SPAN-PTKIN?,0.8405328989028931
+215,jalur span ptkin cakup semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7968102693557739
+216,jalur seleksi span ptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SPAN-PTKIN memungkinkan pilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9134755730628967
+217,lalu jalur span ptkin semua jurus uin sunan gunung djati bandung pilih,Apakah melalui jalur SPAN-PTKIN semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih?,0.8358736038208008
+218,jalur span ptkin cakup semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN bisa mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.7825829982757568
+219,jalur seleksi span ptkin cakup semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SPAN-PTKIN dapat mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8123891353607178
+220,kita pilih jurus apa di uin sunan gunung djati bandung lalu jalur span ptkin,Apakah kita bisa memilih jurusan apa saja di UIN Sunan Gunung Djati Bandung melalui jalur SPAN-PTKIN?,0.8517485857009888
+221,lalu jalur span ptkin bisa pilih jurus apa uin sunan gunung djati bandung,Apakah melalui jalur SPAN-PTKIN kita bisa memilih jurusan apapun di UIN Sunan Gunung Djati Bandung?,0.8612278699874878
+222,semua jurus uin sunan gunung djati bandung sedia jalur seleksi span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung tersedia dalam jalur seleksi SPAN-PTKIN?,0.8481844663619995
+223,jalur span ptkin guna pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN bisa digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8582459688186646
+224,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur seleksi SPAN-PTKIN?,0.8521665930747986
+225,jalur seleksi span ptkin mungkin daftar semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi SPAN-PTKIN memungkinkan pendaftaran semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8986450433731079
+226,kita daftar semua jurus uin sunan gunung djati bandung lewat jalur span ptkin,Apakah kita bisa mendaftar di semua jurusan di UIN Sunan Gunung Djati Bandung lewat jalur SPAN-PTKIN?,0.8041305541992188
+227,jalur span ptkin mungkin pilih semua program studi uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN memungkinkan memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.9328248500823975
+228,jalur span ptkin guna pilih semua program studi uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN bisa digunakan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.8994944095611572
+229,jalur span ptkin cakup semua program studi uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN mencakup semua program studi di UIN Sunan Gunung Djati Bandung?,0.8926911354064941
+230,kita pilih program studi apa uin sunan gunung djati bandung lewat jalur span ptkin,Apakah kita bisa memilih program studi apapun di UIN Sunan Gunung Djati Bandung lewat jalur SPAN-PTKIN?,0.9368743896484375
+231,jalur span ptkin mungkin pilih program studi apa uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN memungkinkan memilih program studi apapun di UIN Sunan Gunung Djati Bandung?,0.9431161880493164
+232,kita daftar semua program studi uin sunan gunung djati bandung lalu jalur span ptkin,Apakah kita bisa mendaftar semua program studi di UIN Sunan Gunung Djati Bandung melalui jalur SPAN-PTKIN?,0.864549458026886
+233,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi span ptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi SPAN-PTKIN?,0.8587701320648193
+234,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi SPAN-PTKIN?,0.8496490716934204
+235,semua jurus uin sunan gunung djati bandung pilih lewat jalur span ptkin,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih lewat jalur SPAN-PTKIN?,0.8828784823417664
+236,semua jurus uin sunan gunung djati bandung pilih lewat jalur span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur SPAN-PTKIN?,0.8645493984222412
+237,semua jurus uin sunan gunung djati bandung pilih jalur span ptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur SPAN-PTKIN?,0.8689910173416138
+238,semua jurus uin sunan gunung djati bandung pilih jalur span ptkin,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur SPAN-PTKIN?,0.8760142922401428
+239,semua jurus uin sunan gunung djati bandung pilih serta jalur span ptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih oleh peserta jalur SPAN-PTKIN?,0.8395428657531738
+240,semua jurus uin sunan gunung djati bandung pilih serta jalur span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih oleh peserta jalur SPAN-PTKIN?,0.8371134996414185
+241,jalur span ptkin untuk pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur SPAN-PTKIN digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.874435544013977
+242,jalur span ptkin guna pilih semua jurus uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN dapat digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8574349284172058
+243,jalur span ptkin untuk pilih semua jurus uin sunan gunung djati bandung,Dapatkah jalur SPAN-PTKIN digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8823384046554565
+244,semua program studi uin sunan gunung djati bandung pilih lewat jalur span ptkin,Bisakah semua program studi di UIN Sunan Gunung Djati Bandung dipilih lewat jalur SPAN-PTKIN?,0.9154675006866455
+245,semua program studi uin sunan gunung djati bandung pilih lewat jalur span ptkin,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur SPAN-PTKIN?,0.9107475876808167
+246,semua program studi uin sunan gunung djati bandung pilih lewat jalur span ptkin,Dapatkah semua program studi di UIN Sunan Gunung Djati Bandung dipilih lewat jalur SPAN-PTKIN?,0.924055278301239
+247,semua program studi uin sunan gunung djati bandung pilih lalu jalur span ptkin,Bisakah semua program studi di UIN Sunan Gunung Djati Bandung dipilih melalui jalur SPAN-PTKIN?,0.8999117612838745
+248,semua program studi uin sunan gunung djati bandung pilih lalu jalur span ptkin,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur SPAN-PTKIN?,0.8948854804039001
+249,jalur span ptkin untuk pilih semua program studi uin sunan gunung djati bandung,Bisakah jalur SPAN-PTKIN digunakan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.9061517715454102
+250,jalur span ptkin guna pilih semua program studi uin sunan gunung djati bandung,Apakah jalur SPAN-PTKIN dapat digunakan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.9035896062850952
+251,jalur span ptkin untuk pilih semua program studi uin sunan gunung djati bandung,Dapatkah jalur SPAN-PTKIN digunakan untuk memilih semua program studi di UIN Sunan Gunung Djati Bandung?,0.9141831398010254
+252,semua jurus uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi SPAN-PTKIN?,0.8695335388183594
+253,semua jurus uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih dengan jalur seleksi SPAN-PTKIN?,0.8628466129302979
+254,semua jurus uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi SPAN-PTKIN?,0.8758108615875244
+255,semua program studi uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Bisakah semua program studi di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi SPAN-PTKIN?,0.913089394569397
+256,semua program studi uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Apakah semua program studi di UIN Sunan Gunung Djati Bandung bisa dipilih dengan jalur seleksi SPAN-PTKIN?,0.9118916392326355
+257,semua program studi uin sunan gunung djati bandung pilih jalur seleksi span ptkin,Dapatkah semua program studi di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi SPAN-PTKIN?,0.9190740585327148
+258,kamu pilih semua jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Apakah kamu bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.8862178325653076
+259,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Bisakah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung dengan jalur seleksi UMPTKIN?,0.9033520221710205
+260,kamu pilih semua jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Dapatkah kamu memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.9044510126113892
+261,kamu guna jalur seleksi umptkin pilih jurus uin sunan gunung djati bandung,Apakah kamu bisa menggunakan jalur seleksi UMPTKIN untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9111248254776001
+262,jalur seleksi umptkin untuk pilih jurus uin sunan gunung djati bandung,Bisakah jalur seleksi UMPTKIN digunakan untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9076645970344543
+263,jalur seleksi umptkin mungkin kamu pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN memungkinkan kamu memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9462321400642395
+264,kamu jalur seleksi umptkin pilih jurus uin sunan gunung djati bandung,Dapatkah kamu menggunakan jalur seleksi UMPTKIN untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9210283756256104
+265,jalur seleksi umptkin mungkin pilih jurus uin sunan gunung djati bandung kamu,Apakah jalur seleksi UMPTKIN memungkinkan pemilihan jurusan di UIN Sunan Gunung Djati Bandung oleh kamu?,0.933193564414978
+266,kamu pilih jurus uin sunan gunung djati bandung lewat jalur seleksi umptkin,Bisakah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung lewat jalur seleksi UMPTKIN?,0.9122803211212158
+267,kamu pilih jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.8924696445465088
+268,kamu pilih semua jurus ada uin sunan gunung djati bandung jalur seleksi umptkin,Dapatkah kamu memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung dengan jalur seleksi UMPTKIN?,0.9068143963813782
+269,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung menggunakan jalur seleksi UMPTKIN?,0.8949340581893921
+270,kamu pilih semua jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Bisakah kamu memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.8976888656616211
+271,kamu pilih jurus uin sunan gunung djati bandung lewat jalur seleksi umptkin,Apakah kamu dapat memilih jurusan di UIN Sunan Gunung Djati Bandung lewat jalur seleksi UMPTKIN?,0.9026217460632324
+272,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Bisakah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung menggunakan jalur seleksi UMPTKIN?,0.9027912616729736
+273,kamu pilih semua jurus uin sunan gunung djati bandung lewat jalur seleksi umptkin,Apakah kamu bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung lewat jalur seleksi UMPTKIN?,0.9018926620483398
+274,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Dapatkah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung dengan jalur seleksi UMPTKIN?,0.9085720181465149
+275,kamu pilih jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.8924696445465088
+276,kamu jalur seleksi umptkin pilih semua jurus uin sunan gunung djati bandung,Bisakah kamu menggunakan jalur seleksi UMPTKIN untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9181685447692871
+277,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung dengan jalur seleksi UMPTKIN?,0.8943932056427002
+278,kamu pilih semua jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Dapatkah kamu memilih semua jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.9044510126113892
+279,kamu pilih jurus uin sunan gunung djati bandung guna jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung dengan menggunakan jalur seleksi UMPTKIN?,0.8981215357780457
+280,kamu pilih jurus uin sunan gunung djati bandung lalu jalur seleksi umptkin,Bisakah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung melalui jalur seleksi UMPTKIN?,0.9003364443778992
+281,kamu pilih jurus uin sunan gunung djati bandung jalur seleksi umptkin,Apakah kamu bisa memilih jurusan di UIN Sunan Gunung Djati Bandung menggunakan jalur seleksi UMPTKIN?,0.8949340581893921
+282,kamu pilih jurus uin sunan gunung djati bandung lewat jalur seleksi umptkin,Dapatkah kamu memilih jurusan di UIN Sunan Gunung Djati Bandung lewat jalur seleksi UMPTKIN?,0.9168739318847656
+283,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih melalui jalur seleksi UMPTKIN?,0.8705506324768066
+284,jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,Dapatkah jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,0.8751271963119507
+285,jurus ada uin sunan gunung djati bandung pilih jalur seleksi umptkin,Bisakah jurusan yang ada di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi UMPTKIN?,0.8745905160903931
+286,pilih jurus uin sunan gunung djati bandung laku lalu jalur seleksi umptkin,Apakah pemilihan jurusan di UIN Sunan Gunung Djati Bandung bisa dilakukan melalui jalur seleksi UMPTKIN?,0.8457119464874268
+287,mungkin jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,Mungkinkah jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,0.918424129486084
+288,jalur seleksi umptkin mungkin pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN memungkinkan pemilihan semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9347156882286072
+289,jalur seleksi umptkin untuk pilih jurus uin sunan gunung djati bandung,Bisakah jalur seleksi UMPTKIN digunakan untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9076645970344543
+290,jalur seleksi umptkin izin pilih jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN mengizinkan pemilihan jurusan di UIN Sunan Gunung Djati Bandung?,0.8860211968421936
+291,lalu jalur seleksi umptkin jurus uin sunan gunung djati bandung pilih,"Apakah melalui jalur seleksi UMPTKIN, jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih?",0.8550420999526978
+292,jalur seleksi umptkin cakup semua jurus uin sunan gunung djati bandung,Bisakah jalur seleksi UMPTKIN mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.816516101360321
+293,jalur seleksi umptkin pakai pilih jurus uin sunan gunung djati bandung,Dapatkah jalur seleksi UMPTKIN dipakai untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9134006500244141
+294,jalur seleksi umptkin mungkin pilih jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN memungkinkan pemilihan jurusan di UIN Sunan Gunung Djati Bandung?,0.9311410784721375
+295,mungkin jalur seleksi umptkin pakai pilih semua jurus uin sunan gunung djati bandung,Mungkinkah jalur seleksi UMPTKIN dipakai untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9329740405082703
+296,pilih jurus uin sunan gunung djati bandung laku lalu jalur seleksi umptkin,Bisakah pemilihan jurusan di UIN Sunan Gunung Djati Bandung dilakukan melalui jalur seleksi UMPTKIN?,0.8431861996650696
+297,jalur seleksi umptkin cakup pilih jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN mencakup pemilihan jurusan di UIN Sunan Gunung Djati Bandung?,0.8456012010574341
+298,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,0.8835020065307617
+299,jalur seleksi umptkin cakup semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN bisa mencakup semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8086166381835938
+300,jurus jurus uin sunan gunung djati bandung pilih lalu jalur seleksi umptkin,Bisakah jurusan-jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi UMPTKIN?,0.8312530517578125
+301,jalur seleksi umptkin guna pilih jurus uin sunan gunung djati bandung,Apakah jalur seleksi UMPTKIN bisa digunakan untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.892005205154419
+302,jalur seleksi umptkin pilih jurus uin sunan gunung djati bandung,Dapatkah jalur seleksi UMPTKIN memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9190458655357361
+303,mungkin jalur seleksi umptkin pakai pilih jurus uin sunan gunung djati bandung,Mungkinkah jalur seleksi UMPTKIN dipakai untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9341284036636353
+304,jalur seleksi umptkin pilih jurus uin sunan gunung djati bandung,Bisakah jalur seleksi UMPTKIN memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.916273832321167
+305,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi umptkin,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur seleksi UMPTKIN?,0.8913795948028564
+306,jalur seleksi umptkin untuk pilih semua jurus uin sunan gunung djati bandung,Dapatkah jalur seleksi UMPTKIN digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9189586639404297
+307,jalur seleksi umptkin pakai pilih jurus uin sunan gunung djati bandung,Bisakah jalur seleksi UMPTKIN dipakai untuk memilih jurusan di UIN Sunan Gunung Djati Bandung?,0.9083486795425415
+308,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi Mandiri?,0.8657802939414978
+309,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih oleh jalur seleksi Mandiri?,0.8701019287109375
+310,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih lewat jalur seleksi Mandiri?,0.8888624310493469
+311,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih dengan jalur seleksi Mandiri?,0.8715143203735352
+312,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung bukan,"Jalur seleksi Mandiri dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung, bukan?",0.922507107257843
+313,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih menggunakan jalur seleksi Mandiri?,0.878446102142334
+314,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi Mandiri?,0.8783293962478638
+315,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi Mandiri?,0.8826420307159424
+316,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi Mandiri?,0.8571054339408875
+317,lalu jalur seleksi mandiri semua jurus uin sunan gunung djati bandung pilih,"Apakah melalui jalur seleksi Mandiri, semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih?",0.8803070187568665
+318,semua jurus uin sunan gunung djati bandung pilih guna jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan menggunakan jalur seleksi Mandiri?,0.8650717735290527
+319,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih dengan jalur seleksi Mandiri?,0.8674308061599731
+320,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung bukan,"Jalur seleksi Mandiri dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung, bukan?",0.922507107257843
+321,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih oleh jalur seleksi Mandiri?,0.8803584575653076
+322,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih lewat jalur seleksi Mandiri?,0.8888624310493469
+323,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih oleh jalur seleksi Mandiri?,0.8701019287109375
+324,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur seleksi Mandiri?,0.8775177001953125
+325,jalur seleksi mandiri untuk pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur seleksi Mandiri digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8786907196044922
+326,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih lewat jalur seleksi Mandiri?,0.8730411529541016
+327,jalur seleksi mandiri guna pilih semua jurus uin sunan gunung djati bandung bukan,"Jalur seleksi Mandiri dapat digunakan untuk memilih semua jurusan di UIN Sunan Gunung Djati Bandung, bukan?",0.908178448677063
+328,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih oleh jalur seleksi Mandiri?,0.8742074966430664
+329,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi Mandiri?,0.8724809885025024
+330,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi Mandiri?,0.8783293962478638
+331,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8853375911712646
+332,semua jurus uin sunan gunung djati bandung pilih guna jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan menggunakan jalur seleksi Mandiri?,0.8703521490097046
+333,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8784565925598145
+334,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Bisakah jalur seleksi Mandiri memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8830016851425171
+335,jalur seleksi mandiri mampu pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri mampu memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.9060075283050537
+336,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Dapatkah jalur seleksi Mandiri memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8979777097702026
+337,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih dengan jalur seleksi Mandiri?,0.8783293962478638
+338,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi Mandiri?,0.8571054339408875
+339,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Dapatkah jalur seleksi Mandiri memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8854029178619385
+340,semua jurus ada uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan yang ada di UIN Sunan Gunung Djati Bandung bisa dipilih dengan jalur seleksi Mandiri?,0.871567964553833
+341,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung bukan,"Jalur seleksi Mandiri dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung, bukan?",0.922507107257843
+342,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih oleh jalur seleksi Mandiri?,0.8742074966430664
+343,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih oleh jalur seleksi Mandiri?,0.8803584575653076
+344,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri dapat memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8853375911712646
+345,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Dapatkah jalur seleksi Mandiri memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8854029178619385
+346,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri bisa memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8859763145446777
+347,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Bisakah jalur seleksi Mandiri memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8830016851425171
+348,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi Mandiri?,0.8571054339408875
+349,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Dapatkah jalur seleksi Mandiri memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8854029178619385
+350,semua jurus uin sunan gunung djati bandung pilih lewat jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih lewat jalur seleksi Mandiri?,0.8775177001953125
+351,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Bisakah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih oleh jalur seleksi Mandiri?,0.8803584575653076
+352,semua jurus uin sunan gunung djati bandung pilih jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung bisa dipilih dengan jalur seleksi Mandiri?,0.8715143203735352
+353,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Dapatkah semua jurusan di UIN Sunan Gunung Djati Bandung dipilih melalui jalur seleksi Mandiri?,0.8724809885025024
+354,jalur seleksi mandiri pilih semua jurus ada uin sunan gunung djati bandung,Apakah jalur seleksi Mandiri bisa memilih semua jurusan yang ada di UIN Sunan Gunung Djati Bandung?,0.8784565925598145
+355,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Bisakah jalur seleksi Mandiri memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8943897485733032
+356,semua jurus uin sunan gunung djati bandung pilih lalu jalur seleksi mandiri,Apakah semua jurusan di UIN Sunan Gunung Djati Bandung dapat dipilih melalui jalur seleksi Mandiri?,0.8571054339408875
+357,jalur seleksi mandiri pilih semua jurus uin sunan gunung djati bandung,Dapatkah jalur seleksi Mandiri memilih semua jurusan di UIN Sunan Gunung Djati Bandung?,0.8979777097702026
+358,berapa jalur seleksi masuk pasca sarjana uin sunan gunung djati bandung ada,Berapa jalur seleksi masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung yang ada?,0.9880056977272034
+359,berapa jalur seleksi guna masuk pasca sarjana uin sunan gunung djati bandung,Ada berapa jalur seleksi yang digunakan untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9738861322402954
+360,berapa jumlah jalur seleksi masuk pasca sarjana uin sunan gunung djati bandung,Berapa jumlah jalur seleksi masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9954092502593994
+361,berapa banyak jalur seleksi sedia pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang tersedia untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9846693277359009
+362,jalur seleksi apa yang untuk masuk pasca sarjana uin sunan gunung djati bandung,Jalur seleksi apa saja yang ada untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.985106348991394
+363,ada beberapa jalur seleksi masuk pasca sarjana uin sunan gunung djati bandung,Apakah ada beberapa jalur seleksi untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.913262128829956
+364,berapa jenis jalur seleksi terap pasca sarjana uin sunan gunung djati bandung,Berapa jenis jalur seleksi yang diterapkan untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9418411254882812
+365,berapa jenis jalur seleksi terap pasca sarjana uin sunan gunung djati bandung,Ada berapa jenis jalur seleksi yang diterapkan pada Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9300409555435181
+366,jalur seleksi apa guna masuk pasca sarjana uin sunan gunung djati bandung,Jalur seleksi apa yang digunakan untuk masuk ke Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9740034341812134
+367,berapa banyak jalur seleksi tawar pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang ditawarkan oleh Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9604165554046631
+368,apa jalur seleksi sedia program pasca sarjana uin sunan gunung djati bandung,Apa saja jalur seleksi yang tersedia untuk program Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9599140286445618
+369,berapa jalur seleksi guna program pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang digunakan untuk program Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9762389063835144
+370,berapa jalur seleksi terap pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterapkan di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9204339981079102
+371,apa jumlah jalur seleksi masuk pasca sarjana uin sunan gunung djati bandung,Apa jumlah jalur seleksi untuk masuk ke Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9791291356086731
+372,berapa jalur tawar seleksi masuk pasca sarjana uin sunan gunung djati bandung,Ada berapa jalur yang ditawarkan untuk seleksi masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9386754035949707
+373,berapa banyak jalur seleksi masuk ada pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi masuk yang ada di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9833436012268066
+374,apa jalur seleksi terap pasca sarjana uin sunan gunung djati bandung,Apa saja jalur seleksi yang diterapkan di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9067230224609375
+375,berapa banyak jalur seleksi terap pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterapkan pada Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9413080215454102
+376,jalur seleksi pasca sarjana uin sunan gunung djati bandung lebih satu,Apakah jalur seleksi untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung ada lebih dari satu?,0.9131430983543396
+377,berapa opsi jalur seleksi pasca sarjana uin sunan gunung djati bandung,Ada berapa opsi jalur seleksi untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9823504686355591
+378,berapa banyak jalur seleksi sedia calon mahasiswa pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang tersedia bagi calon mahasiswa Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9846729636192322
+379,berapa jumlah jalur seleksi sedia pasca sarjana uin sunan gunung djati bandung,Berapa jumlah jalur seleksi yang disediakan untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9819296598434448
+380,apa jenis jalur seleksi ada pasca sarjana uin sunan gunung djati bandung,Apa saja jenis jalur seleksi yang ada untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9691712856292725
+381,berapa banyak jalur seleksi ada program pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang ada untuk program Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9794804453849792
+382,ada lebih satu jalur seleksi pasca sarjana uin sunan gunung djati bandung,Apakah ada lebih dari satu jalur seleksi untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9015591144561768
+383,berapa banyak jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9832437634468079
+384,berapa jalur seleksi sedia pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang disediakan untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9741858243942261
+385,berapa jumlah jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa jumlah jalur seleksi yang diterima di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9795615673065186
+386,berapa banyak jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9805448055267334
+387,apa jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Apa saja jalur seleksi yang diterima di Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9530413150787354
+388,berapa jalur seleksi terima masuk pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterima untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9827682971954346
+389,berapa banyak jalur seleksi terima masuk pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9832829236984253
+390,berapa jumlah jalur seleksi terima program pasca sarjana uin sunan gunung djati bandung,Berapa jumlah jalur seleksi yang diterima untuk program Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9765243530273438
+391,berapa banyak jalur seleksi terima program pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk program Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9764845371246338
+392,jalur seleksi apa yang terima pasca sarjana uin sunan gunung djati bandung,Jalur seleksi apa saja yang diterima untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9764717817306519
+393,berapa jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterima oleh Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9739792346954346
+394,berapa banyak jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima oleh Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9812048673629761
+395,apa jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Apa saja jalur seleksi yang diterima oleh Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9553529024124146
+396,berapa jalur seleksi terima masuk pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterima untuk masuk ke Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9749472141265869
+397,berapa jumlah jalur seleksi terima masuk pasca sarjana uin sunan gunung djati bandung,Berapa jumlah jalur seleksi yang diterima untuk masuk ke Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.977289080619812
+398,jalur seleksi apa terima pasca sarjana uin sunan gunung djati bandung,Jalur seleksi apa yang diterima untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9720250368118286
+399,berapa banyak jalur seleksi terima seleksi masuk pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk seleksi masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9847735166549683
+400,berapa banyak jalur seleksi terima masuk pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk masuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9832829236984253
+401,apa jenis jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Apa saja jenis jalur seleksi yang diterima untuk Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9679508209228516
+402,berapa jalur seleksi terima program pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterima untuk program Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9765239357948303
+403,apa jumlah jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Apa jumlah jalur seleksi yang diterima oleh Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9780857563018799
+404,berapa jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa jalur seleksi yang diterima untuk Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9702352285385132
+405,berapa banyak jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima untuk Pasca Sarjana di UIN Sunan Gunung Djati Bandung?,0.9761343598365784
+406,jalur seleksi apa terima program pasca sarjana uin sunan gunung djati bandung,Jalur seleksi apa yang diterima untuk program Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.975361704826355
+407,berapa banyak jalur seleksi terima pasca sarjana uin sunan gunung djati bandung,Berapa banyak jalur seleksi yang diterima pada Pasca Sarjana UIN Sunan Gunung Djati Bandung?,0.9825870990753174
+408,mana informasi terima mahasiswa baru uin sunan gunung djati bandung dapat,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa didapat?,0.936318576335907
+409,informasi terima mahasiswa baru uin sunan gunung djati bandung dapat mana,Informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa didapat di mana?,0.938836932182312
+410,mana terima mahasiswa baru uin sunan gunung djati bandung informasi temu,Di mana Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung informasi bisa ditemukan?,0.8870662450790405
+411,terima mahasiswa baru uin sunan gunung djati bandung informasi temu mana,Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung informasi bisa ditemukan di mana?,0.8904401063919067
+412,mana informasi kena terima mahasiswa baru uin sunan gunung djati bandung oleh,Di mana informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diperoleh?,0.8827251195907593
+413,informasi kena terima mahasiswa baru uin sunan gunung djati bandung oleh mana,Informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diperoleh di mana?,0.8934047222137451
+414,mana informasi terima mahasiswa baru uin sunan gunung djati bandung cari,Di mana informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa dicari?,0.9217448830604553
+415,mana informasi terima mahasiswa baru uin sunan gunung djati bandung temu,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat ditemukan?,0.8924204111099243
+416,mana terima mahasiswa baru uin sunan gunung djati bandung temu,Di mana Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa ditemukan?,0.8829371929168701
+417,mana informasi terima mahasiswa baru uin sunan gunung djati bandung dapat,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat didapatkan?,0.9418364763259888
+418,informasi kena terima mahasiswa baru uin sunan gunung djati bandung temu mana,Informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat ditemukan di mana?,0.8733468055725098
+419,mana terima mahasiswa baru uin sunan gunung djati bandung cari,Di mana Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa dicari?,0.9127389788627625
+420,informasi terima mahasiswa baru uin sunan gunung djati bandung oleh mana,Informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diperoleh di mana?,0.9176739454269409
+421,mana informasi terima mahasiswa baru uin sunan gunung djati bandung akses,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diakses?,0.9083225131034851
+422,mana informasi terima mahasiswa baru uin sunan gunung djati bandung akses,Di mana informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diakses?,0.9127533435821533
+423,terima mahasiswa baru uin sunan gunung djati bandung informasi dapat mana,Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung informasi bisa didapatkan di mana?,0.9393572807312012
+424,mana informasi terima mahasiswa baru uin sunan gunung djati bandung cari,Di mana informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat dicari?,0.9248172640800476
+425,terima mahasiswa baru uin sunan gunung djati bandung informasi temu mana,Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung informasi bisa ditemukan di mana?,0.8904401063919067
+426,mana informasi terima mahasiswa baru uin sunan gunung djati bandung oleh,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diperoleh?,0.9078793525695801
+427,mana terima mahasiswa baru uin sunan gunung djati bandung informasi cari,Di mana Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung informasi bisa dicari?,0.9006425738334656
+428,mana terima mahasiswa baru uin sunan gunung djati bandung oleh,Di mana Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diperoleh?,0.9005935192108154
+429,mana informasi terima mahasiswa baru uin sunan gunung djati bandung ambil,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung bisa diambil?,0.9111254215240479
+430,informasi kena terima mahasiswa baru uin sunan gunung djati bandung ambil mana,Informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diambil di mana?,0.9030265808105469
+431,mana informasi terima mahasiswa baru uin sunan gunung djati bandung oleh,Di mana informasi Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat diperoleh?,0.9146296381950378
+432,mana informasi terima mahasiswa baru uin sunan gunung djati bandung temu,Di mana informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung dapat ditemukan?,0.8924204111099243
+433,mana dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9106254577636719
+434,mana bisa temu informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa menemukan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9078134894371033
+435,mana dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9088039994239807
+436,mana bisa informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mendapatkan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8839421272277832
+437,mana dapat cari informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat mencari informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9251077175140381
+438,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9122154712677002
+439,mana bisa informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa memperoleh informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8854036331176758
+440,mana bisa temu informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa menemukan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8943987488746643
+441,mana dapat cari informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat mencari informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9251077175140381
+442,mana bisa cari informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mencari informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9317066073417664
+443,mana dapat temu informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat menemukan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9033819437026978
+444,mana bisa informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa memperoleh informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8854036331176758
+445,mana dapat informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat memperoleh informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8850609064102173
+446,mana bisa informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mendapatkan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8839421272277832
+447,mana dapat temu informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat menemukan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8898235559463501
+448,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9111519455909729
+449,mana dapat informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat mendapatkan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8824872970581055
+450,mana bisa temu informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa menemukan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8943987488746643
+451,mana dapat cari informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat mencari informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9087554812431335
+452,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mendapatkan informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9111519455909729
+453,mana bisa temu informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa menemukan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8943987488746643
+454,mana dapat informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9106254577636719
+455,mana dapat temu informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya dapat menemukan informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.8898235559463501
+456,mana bisa informasi terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa memperoleh informasi tentang Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9122154712677002
+457,mana bisa cari informasi kena terima mahasiswa baru uin sunan gunung djati bandung,Di mana saya bisa mencari informasi mengenai Penerimaan Mahasiswa Baru di UIN Sunan Gunung Djati Bandung?,0.9146914482116699
+458,berapa biaya didik kena uin sunan gunung djati bandung,Berapa biaya pendidikan yang dikenakan di UIN Sunan Gunung Djati Bandung?,0.9446737766265869
+459,berapa biaya perlu didik uin sunan gunung djati bandung,Berapa biaya yang diperlukan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9511125087738037
+460,berapa biaya harus bayar didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9436668157577515
+461,berapa biaya didik patok uin sunan gunung djati bandung,Berapa biaya pendidikan yang dipatok di UIN Sunan Gunung Djati Bandung?,0.9204968214035034
+462,berapa biaya didik kena mahasiswa uin sunan gunung djati bandung,Berapa biaya pendidikan yang dikenakan kepada mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9406704902648926
+463,berapa biaya tetap didik uin sunan gunung djati bandung,Berapa biaya yang ditetapkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9273136854171753
+464,berapa biaya tanggung didik uin sunan gunung djati bandung,Berapa biaya yang ditanggung untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9420563578605652
+465,berapa biaya didik terap uin sunan gunung djati bandung,Berapa biaya pendidikan yang diterapkan di UIN Sunan Gunung Djati Bandung?,0.9306842684745789
+466,berapa biaya kena mahasiswa uin sunan gunung djati bandung,Berapa biaya yang dikenakan pada mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9595650434494019
+467,berapa biaya didik beban uin sunan gunung djati bandung,Berapa biaya pendidikan yang dibebankan di UIN Sunan Gunung Djati Bandung?,0.9399412274360657
+468,berapa biaya tetap mahasiswa uin sunan gunung djati bandung,Berapa biaya yang ditetapkan untuk mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9566262364387512
+469,berapa biaya didik harus bayar uin sunan gunung djati bandung,Berapa biaya pendidikan yang harus dibayar di UIN Sunan Gunung Djati Bandung?,0.9475367665290833
+470,berapa biaya keluar didik uin sunan gunung djati bandung,Berapa biaya yang dikeluarkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9432270526885986
+471,berapa biaya didik kena calon mahasiswa uin sunan gunung djati bandung,Berapa biaya pendidikan yang dikenakan kepada calon mahasiswa di UIN Sunan Gunung Djati Bandung?,0.943790078163147
+472,berapa biaya harus keluar didik uin sunan gunung djati bandung,Berapa biaya yang harus dikeluarkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9530207514762878
+473,berapa biaya didik kena ajar uin sunan gunung djati bandung,Berapa biaya pendidikan yang dikenakan kepada pelajar di UIN Sunan Gunung Djati Bandung?,0.9019891023635864
+474,berapa biaya kena calon mahasiswa uin sunan gunung djati bandung,Berapa biaya yang dikenakan pada calon mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9575321078300476
+475,berapa biaya didik tentu uin sunan gunung djati bandung,Berapa biaya pendidikan yang ditentukan di UIN Sunan Gunung Djati Bandung?,0.951757550239563
+476,berapa biaya harus bayar mahasiswa uin sunan gunung djati bandung,Berapa biaya yang harus dibayar oleh mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9695481061935425
+477,berapa biaya didik kena uin sunan gunung djati bandung ini,Berapa biaya pendidikan yang dikenakan di UIN Sunan Gunung Djati Bandung saat ini?,0.9412184953689575
+478,berapa biaya didik laku uin sunan gunung djati bandung,Berapa biaya pendidikan yang berlaku di UIN Sunan Gunung Djati Bandung?,0.9517132043838501
+479,berapa biaya harus keluar kuliah uin sunan gunung djati bandung,Berapa biaya yang harus dikeluarkan untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9698580503463745
+480,berapa biaya didik terap uin sunan gunung djati bandung ini,Berapa biaya pendidikan yang diterapkan di UIN Sunan Gunung Djati Bandung saat ini?,0.9272205829620361
+481,berapa biaya tentu didik uin sunan gunung djati bandung,Berapa biaya yang ditentukan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9396725296974182
+482,berapa biaya beban didik uin sunan gunung djati bandung,Berapa biaya yang dibebankan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9377593398094177
+483,berapa biaya harus bayar didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9436668157577515
+484,berapa biaya kena didik uin sunan gunung djati bandung,Berapa biaya yang dikenakan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.933079719543457
+485,berapa biaya butuh didik uin sunan gunung djati bandung,Berapa biaya yang dibutuhkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.950903058052063
+486,berapa biaya tetap didik uin sunan gunung djati bandung,Berapa biaya yang ditetapkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9273136854171753
+487,berapa biaya kena mahasiswa uin sunan gunung djati bandung,Berapa biaya yang dikenakan pada mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9595650434494019
+488,berapa biaya laku didik uin sunan gunung djati bandung,Berapa biaya yang berlaku untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9384849071502686
+489,berapa biaya harus keluar didik uin sunan gunung djati bandung,Berapa biaya yang harus dikeluarkan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9530207514762878
+490,berapa biaya harus bayar mahasiswa kuliah uin sunan gunung djati bandung,Berapa biaya yang harus dibayar mahasiswa untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9676116704940796
+491,berapa biaya kena calon mahasiswa uin sunan gunung djati bandung,Berapa biaya yang dikenakan pada calon mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9575321078300476
+492,berapa biaya harus bayar kuliah uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9660047292709351
+493,berapa biaya tanggung mahasiswa uin sunan gunung djati bandung,Berapa biaya yang ditanggung mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9619138836860657
+494,berapa biaya harus bayar didik tinggi uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk pendidikan tinggi di UIN Sunan Gunung Djati Bandung?,0.9473056793212891
+495,berapa biaya harus keluar kuliah uin sunan gunung djati bandung,Berapa biaya yang harus dikeluarkan untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9698580503463745
+496,berapa biaya beban didik uin sunan gunung djati bandung,Berapa biaya yang dibebankan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9377593398094177
+497,berapa biaya harus bayar calon mahasiswa didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar calon mahasiswa untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9615578651428223
+498,berapa biaya harus bayar ikut didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk mengikuti pendidikan di UIN Sunan Gunung Djati Bandung?,0.9381142258644104
+499,berapa biaya kena kuliah uin sunan gunung djati bandung,Berapa biaya yang dikenakan untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9548546075820923
+500,berapa biaya tanggung kuliah uin sunan gunung djati bandung,Berapa biaya yang ditanggung untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.951782763004303
+501,berapa biaya harus keluar mahasiswa uin sunan gunung djati bandung,Berapa biaya yang harus dikeluarkan oleh mahasiswa di UIN Sunan Gunung Djati Bandung?,0.9672932028770447
+502,berapa biaya tetap kuliah uin sunan gunung djati bandung,Berapa biaya yang ditetapkan untuk kuliah di UIN Sunan Gunung Djati Bandung?,0.9526627659797668
+503,berapa biaya harus bayar daftar didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar untuk mendaftar pendidikan di UIN Sunan Gunung Djati Bandung?,0.9166325926780701
+504,berapa biaya kena didik tinggi uin sunan gunung djati bandung,Berapa biaya yang dikenakan untuk pendidikan tinggi di UIN Sunan Gunung Djati Bandung?,0.9401595592498779
+505,berapa biaya harus bayar mahasiswa didik uin sunan gunung djati bandung,Berapa biaya yang harus dibayar mahasiswa untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9575392007827759
+506,berapa biaya tentu didik uin sunan gunung djati bandung,Berapa biaya yang ditentukan untuk pendidikan di UIN Sunan Gunung Djati Bandung?,0.9396725296974182
+507,berapa biaya harus keluar didik uin sunan gunung djati bandung ini,Berapa biaya yang harus dikeluarkan untuk pendidikan di UIN Sunan Gunung Djati Bandung saat ini?,0.9469298124313354
+508,uin sunan gunung djati bandung tawar program beasiswa,Apakah UIN Sunan Gunung Djati Bandung menawarkan program beasiswa?,0.906444787979126
+509,program beasiswa apa tawar uin sunan gunung djati bandung,Program beasiswa apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.9261389970779419
+510,uin sunan gunung djati bandung milik program beasiswa,Apakah UIN Sunan Gunung Djati Bandung memiliki program beasiswa?,0.9074394702911377
+511,program beasiswa mana ada uin sunan gunung djati bandung,Program beasiswa mana yang ada di UIN Sunan Gunung Djati Bandung?,0.946558952331543
+512,uin sunan gunung djati bandung selenggara program beasiswa,Apakah UIN Sunan Gunung Djati Bandung menyelenggarakan program beasiswa?,0.894825279712677
+513,program beasiswa apa sedia uin sunan gunung djati bandung,Program beasiswa apa yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9678570032119751
+514,uin sunan gunung djati bandung beri beasiswa,Apakah UIN Sunan Gunung Djati Bandung memberikan beasiswa?,0.9174550771713257
+515,program beasiswa apa tawar uin sunan gunung djati bandung,Program beasiswa apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.9261389970779419
+516,ada program beasiswa uin sunan gunung djati bandung,Apakah ada program beasiswa di UIN Sunan Gunung Djati Bandung?,0.9008958339691162
+517,program beasiswa jenis apa ada uin sunan gunung djati bandung,Program beasiswa jenis apa yang ada di UIN Sunan Gunung Djati Bandung?,0.9725080132484436
+518,uin sunan gunung djati bandung milik beasiswa,Apakah UIN Sunan Gunung Djati Bandung memiliki beasiswa?,0.9086325168609619
+519,program beasiswa apa tawar uin sunan gunung djati bandung,Program beasiswa seperti apa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.9136313199996948
+520,uin sunan gunung djati bandung milik jenis program beasiswa,Apakah UIN Sunan Gunung Djati Bandung memiliki jenis program beasiswa?,0.9149891138076782
+521,program beasiswa apa sedia uin sunan gunung djati bandung,Program beasiswa apa yang tersedia di UIN Sunan Gunung Djati Bandung?,0.9678570032119751
+522,uin sunan gunung djati bandung sedia program beasiswa,Apakah UIN Sunan Gunung Djati Bandung menyediakan program beasiswa?,0.9178352355957031
+523,program beasiswa apa bisa di uin sunan gunung djati bandung,Program beasiswa apa yang bisa didapatkan di UIN Sunan Gunung Djati Bandung?,0.9753271341323853
+524,uin sunan gunung djati bandung tawar beasiswa,Apakah UIN Sunan Gunung Djati Bandung menawarkan beasiswa?,0.9010331630706787
+525,program beasiswa apa ada uin sunan gunung djati bandung,Program beasiswa seperti apa yang ada di UIN Sunan Gunung Djati Bandung?,0.9609031677246094
+526,uin sunan gunung djati bandung milik program beasiswa aktif,Apakah UIN Sunan Gunung Djati Bandung memiliki program beasiswa yang aktif?,0.8935052156448364
+527,program beasiswa tawar uin sunan gunung djati bandung apa,Program beasiswa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung apa saja?,0.9159560799598694
+528,beasiswa sedia uin sunan gunung djati bandung,Apakah beasiswa disediakan di UIN Sunan Gunung Djati Bandung?,0.8966867923736572
+529,program beasiswa ada uin sunan gunung djati bandung apa,Program beasiswa yang ada di UIN Sunan Gunung Djati Bandung apa?,0.9747583866119385
+530,uin sunan gunung djati bandung selenggara beasiswa,Apakah UIN Sunan Gunung Djati Bandung menyelenggarakan beasiswa?,0.8944649696350098
+531,program beasiswa uin sunan gunung djati bandung bagaimana,Program beasiswa di UIN Sunan Gunung Djati Bandung bagaimana?,0.9826048016548157
+532,beasiswa sedia uin sunan gunung djati bandung,Apakah beasiswa tersedia di UIN Sunan Gunung Djati Bandung?,0.8955085277557373
+533,program beasiswa tawar uin sunan gunung djati bandung,Apakah program beasiswa ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.8589015007019043
+534,program beasiswa uin sunan gunung djati bandung tawar siapa,Program beasiswa di UIN Sunan Gunung Djati Bandung ditawarkan oleh siapa?,0.9348087906837463
+535,program beasiswa sedia uin sunan gunung djati bandung,Apakah program beasiswa tersedia di UIN Sunan Gunung Djati Bandung?,0.9055178165435791
+536,program beasiswa uin sunan gunung djati bandung sudah sedia,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah sudah disediakan?,0.8825099468231201
+537,program beasiswa uin sunan gunung djati bandung beri,Apakah program beasiswa di UIN Sunan Gunung Djati Bandung diberikan?,0.9061418771743774
+538,program beasiswa apa yang sedia uin sunan gunung djati bandung,Program beasiswa apa saja yang disediakan oleh UIN Sunan Gunung Djati Bandung?,0.9577886462211609
+539,beasiswa beri uin sunan gunung djati bandung,Apakah beasiswa diberikan oleh UIN Sunan Gunung Djati Bandung?,0.8958593606948853
+540,program beasiswa uin sunan gunung djati bandung telah tawar,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah telah ditawarkan?,0.8902652859687805
+541,program beasiswa uin sunan gunung djati bandung ada,Apakah program beasiswa di UIN Sunan Gunung Djati Bandung sudah ada?,0.8796836137771606
+542,program beasiswa uin sunan gunung djati bandung bagaimana kondisi,Program beasiswa di UIN Sunan Gunung Djati Bandung bagaimana kondisinya?,0.9687089920043945
+543,beasiswa uin sunan gunung djati bandung sedia,Apakah beasiswa di UIN Sunan Gunung Djati Bandung sudah disediakan?,0.8920499086380005
+544,program beasiswa apa sedia uin sunan gunung djati bandung,Program beasiswa apa yang disediakan di UIN Sunan Gunung Djati Bandung?,0.9651792049407959
+545,program beasiswa tawar uin sunan gunung djati bandung,Apakah program beasiswa sudah ditawarkan oleh UIN Sunan Gunung Djati Bandung?,0.8325916528701782
+546,program beasiswa uin sunan gunung djati bandung sedia,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah tersedia?,0.9070317149162292
+547,program beasiswa beri uin sunan gunung djati bandung,Apakah program beasiswa diberikan di UIN Sunan Gunung Djati Bandung?,0.894801676273346
+548,program beasiswa uin sunan gunung djati bandung sudah,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah sudah ada?,0.8886339664459229
+549,beasiswa uin sunan gunung djati bandung tawar,Apakah beasiswa di UIN Sunan Gunung Djati Bandung telah ditawarkan?,0.864338755607605
+550,program beasiswa uin sunan gunung djati bandung bagaimana sedia,Program beasiswa di UIN Sunan Gunung Djati Bandung bagaimana ketersediaannya?,0.924307107925415
+551,program beasiswa ada uin sunan gunung djati bandung sedia,Apakah program beasiswa yang ada di UIN Sunan Gunung Djati Bandung disediakan?,0.9062515497207642
+552,program beasiswa tawar uin sunan gunung djati bandung sudah sedia,Program beasiswa yang ditawarkan oleh UIN Sunan Gunung Djati Bandung apakah sudah tersedia?,0.8530300855636597
+553,program beasiswa sedia uin sunan gunung djati bandung,Apakah program beasiswa disediakan oleh UIN Sunan Gunung Djati Bandung?,0.9036701917648315
+554,program beasiswa uin sunan gunung djati bandung telah sedia,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah telah disediakan?,0.8878588080406189
+555,beasiswa uin sunan gunung djati bandung ada,Apakah beasiswa di UIN Sunan Gunung Djati Bandung telah ada?,0.8887449502944946
+556,program beasiswa uin sunan gunung djati bandung sudah,Program beasiswa di UIN Sunan Gunung Djati Bandung apakah sudah ada?,0.8886339664459229
+557,beasiswa uin sunan gunung djati bandung beri,Apakah beasiswa di UIN Sunan Gunung Djati Bandung telah diberikan?,0.8923021554946899
